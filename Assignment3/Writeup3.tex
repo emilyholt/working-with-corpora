@@ -49,28 +49,28 @@
 		\begin{lstlisting}
 		def calc_unknown(url):
 			ssl._create_default_https_context = ssl._create_unverified_context
-			response = request.urlopen(url)
-			raw = response.read().decode('utf8')
-			tokens = re.findall(r'/\b[a-z]+\b/', raw)
-			print(tokens)
+			html = request.urlopen(url).read().decode('utf8')
+			raw = BeautifulSoup(html).get_text()
+			tokens = [w for (_,w) in re.findall(r'\b[a-z]+\b', raw)]
 			known_words = [w for w in nltk.corpus.words.words('en') if w.islower()]
-			unknown = list(set(tokens).difference(known_words))
+			unknown = list(set(tokens).difference(set(known_words)))
 			
 			print("Unknown words: %s" % unknown)
 			print("Length of raw response: %d" % len(raw))
-			print("Number of unknown words in of raw response: %d" % len(unknown))
+			print("Number of unknown words in of raw response: %d" % len(set(unknown)))
 		\end{lstlisting}
 		
 		Output:
 		\begin{lstlisting}
 		$ python3 unknown.py https://www.nltk.org/book/ch03.html
-		['/widget/', '/widget/', '/doc/', '/catalog/', '/files/', '/hi/', '/software/', '/pypi/', '/nll/', '/gutenberg/', '/images/', '/images/', '/images/', '/images/', '/images/', '/images/', '/wiki/', '/images/', '/images/', '/pipermail/', '/images/', '/images/', '/images/', '/images/', '/python/', '/regex/', '/text/', '/howto/', '/video/', '/articles/', '/wiki/', '/wiki/', '/languagelog/', '/ewan/', '/licenses/', '/us/', '/licenses/', '/us/']
-		Unknown words: ['/articles/', '/ewan/', '/images/', '/gutenberg/', '/regex/', '/files/', '/video/', '/software/', '/nll/', '/howto/', '/doc/', '/pypi/', '/catalog/', '/languagelog/', '/pipermail/', '/hi/', '/wiki/', '/text/', '/widget/', '/us/', '/licenses/', '/python/']
-		Length of raw response: 292794
-		Number of unknown words in of raw response: 22
+		[ 'occurrences', 'doyouseethekittyseethedoggydoyoulikethekittylikethedoggy', 'interfaces', 'systems', 'terytorium', 'eql', 'lolcatbible', 'messages', 'webpage', 'fractions', 'metals', 'kjv', 'upenn', 'selecting', 'quotes', 'colgroup', 'ed', 'duplicated', 'rules', 'lists', 'describing', 'znane', 'involves', 'amp', 'abstracts', 'infuriating', 'exercising', 'placeholder', 'ig', 'has', 'frequencies', 'vowels', 'netscape', 'problems', 'lines', 'failed', 'cortisol', 'fonts', 'ceremoni', 'hmn', 'distributing', 'alphanumeric', 'cvs', 'regexp', 'thead', 'email', 'forms', 'specifies', 'filename', 'whch', 'constructed', 'represented', 'changes', 'kultury', 'ffffff', 'acts', 'measures', 'discussions', 'mapped', 'others', 'elements', 'treebank', 'oriented', 'determining', 'whitespace', 'blog', 'su', 'scores', 'doyouliketh', 'distributions', 'ones', 'hyphens', 'variables', 'suggested', 'seethekit', 'representations', 'borrowed', 'nwell', 'things', 'lengths', 'haaa', 'doy', 'dates', 'occurring', 'seetheki', 'spam', 'causes', 'phrases', 'souls', 'thedogg', 'headwords', 'closures', 'miiiiiinnnnnnnnnneeeeeeee', 'methods', 'spaces', 'frdm', 'et', 'ui', 'ekittylike', 'lol', 'points', 'tries', 'boosted', 'mapping', 'suggests', 'splitlines', 'realized', 'settings', 'dawne', 'fdist', 'pieces', 'toplevel', 'amounts', 'overflows', 'ahhh', 'makes', 'engines', 'placed', 'exercises', 'gt', 'distinctions', 'nd', 'consists', 'numeric', 'iterations', 'tokenizes', 'published', 'notations', 'loops', 'sztuki', 'tabs', 'oauaio', 'liquids', 'mmmmmmmmiiiiiiiiinnnnnnnnneeeeeeee', 'kapokapora', 'aaaaaaaaaaaaaaaaa', 'bngs', 'languagelog', 'linebreak', 'possibilities', 'earlier', 'integers', 'demonstrated', 'collocations', 'normalizing', 'includes', 'bigram', 'acronyms', 'lmao', 'processe', 'facilitates', 'eoldrnnnna', 'nazw', 'ou', 'stm', 'helps', 'hahaha', 'trains', 'techniques', 'unicode', 'applies', 'items', 'suffers', 'programming', 'marks', 'twisters', 'titlecased', 'keeps', 'thursday', 'constraints', 'ahhhh', 'ancestors', 'substitutions', 'kaapo', 'online', 'installed', 'findall', 'inline', 'inputting', 'apostrophes', 'ch', 'nom', 'software', 'wider', 'max', 'nc', 'ident', 'couldn', 'doesn', 'lowercase', 'tokenizers', 'hypernym', 'sighan', 'chooses', 'reformatting', 'questions', 'requires', 'lexeme', 'words', ...]
+		Length of raw response: 127362
+		Number of unknown words in of raw response: 951 ...]
 		\end{lstlisting}
 	
-		Observations: the unknown words in Chapter 3 of the NLTK text book appear to be words related to python or coding in general. A few words (specifically 'software', 'us', and 'images') surprised be when they were categorized as 'unknown', because they seem common enough to appear in the words corpus.
+		Observations: the unknown words in Chapter 3 of the NLTK text book appear to be words related to python, html, javascript or coding in general. 
+		
+		A few words (specifically 'liquids', 'suggests', and other instances of plural words) surprised me when they were categorized as 'unknown', because they seem common enough to appear in the words corpus.
 		
 		\subsection*{Problem 22}
 		Examine the results of processing the URL \codeword{http://news.bbc.co.uk/} using the regular expressions suggested above. You will see that there is still a fair amount of non-textual data there, particularly Javascript commands. You may also find that sentence breaks have not been properly preserved. Define further regular expressions that improve the extraction of text from this web page.\\
@@ -78,11 +78,47 @@
 		Results:
 		\begin{lstlisting}
 		$ python3 unknown.py http://news.bbc.co.uk/
-		Length of raw response: 433939
-		Number of unknown words in of raw response: 50
+		'polyfill', 'minutes', 'films', 'ensuring', 'webmodule', 'occurred', 'cy', 'keywords', 'imrworldwide', 'stylesheet', 'debug', 'notifications', 'noscript', 'jquery', 'crwdcntrl', 'options', 'var', 'uid', 'items', 'suffers', 'deploys', 'nations', 'locations', 'morebutton', 'odnoklassniki', 'cymru', 'cf', 'alsos', 'struggles', 'plurk', 'jssignals', 'trafalgar', 'makeitdigital', 'gb', 'faces', 'png', 'arts', 'statusbar', 'investigates', 'livejournal', 'stamps', 'templates', 'beats', 'onload', 'killings', 'gsurl', 'features', 'lotame', 'promo', 'facebook', 'charset', 'const', 'unescape', 'dcdcdc', 'says', 'dotcom', 'perspectives', 'bbcpage', 'fff', 'years', 'gpt', 'scotland', 'callback', 'paths', 'waits', 'newsdotcom', 'ltr', 'str', 'pe', 'css', 'calc', 'tags', 'styles', 'ssc', 'keyframes', 'svg', 'gt', 'miterlimit', 'couldn', 'arguments', 'ejected', 'footerbutton', 'eslint', 'labels', 'menuitem', 'ul', 'northernireland', 'max', 'usingthebbc', 'accuses', 'modules', 'bundles', 'versions', 'html', 'cmd', 'sharedmodules', 'bbcworldwide', 'cta', 'pinterest', 'accounts', 'homepage', 'hopes', 'meneame', 'preferences', 'len', 'declarations', 'lazyload', 'shows', 'flipboard', 'lx', 'envelopes', 'src', 'hostname', 'xs', 'isn', 'substring', 'moz', 'reactid', 'details', 'became', 'mozart', 'info', 'determining', 'webmodules', 'cdn', 'overachiever', 'googleplus', 'bbcprivacy', 'envs', 'subnav', 'ms', 'warnings', 'https', 'crashed', 'adding', 'utf', 'waf', 'istats', 'youtube', 'bbc', 'async', 'expressions', 'weibo', 'feeds', 'edr', 'cookies', 'prefetch', 'bbcredirection', 'placeholder']
+		Length of raw response: 246615
+		Number of unknown words in of raw response: 369
 		\end{lstlisting}
 		
-		Observations: Most uknown words seem related to javascript libraries named by unique, coding specific words.
+		Observations: Most uknown words seem related to javascript libraries named by unique, coding specific words, but we still see the plurals being categorized as unknown.
+		
+		I used the stemming exercises form Ch 3 to find only token stems, and compare those to the corpus of known words. There are still many unknown words related to coding, but significantly fewer unknown words overall.\\
+		
+		
+		New Code:\\
+		\begin{lstlisting}
+		def stem(word):
+			for suffix in ['ing', 'ly', 'ed', 'ious', 'ies', 'ive', 'es', 's', 'ment']:
+				if word.endswith(suffix):
+					return word[:-len(suffix)]
+			return word
+		
+		def calc_unknown(url):
+			ssl._create_default_https_context = ssl._create_unverified_context
+			html = request.urlopen(url).read().decode('utf8')
+			raw = BeautifulSoup(html).get_text()
+			tokens = re.findall(r'\b[a-z]+\b', raw)
+			known_words = [w for w in nltk.corpus.words.words('en') if w.islower()]
+			unknown = list(set(tokens).difference(set(known_words)))
+			token_stems = [stem(w) for w in tokens]
+			unknown_stems = list(set(token_stems).difference(set(known_words)))
+			
+			print("Unknown word stems: %s" % unknown_stems)
+			print("Length of raw response: %d" % len(raw))
+			print("Number of unknown words in of raw response: %d" % len(set(unknown)))
+			print("Number of unknown word stems in of raw response: %d" % len(set(unknown_stems)))
+		
+		\end{lstlisting}
+		
+		\begin{lstlisting}
+		Unknown word stems: ['', 'pinterest', 'balatarin', 'preferenc', 'dep', 'stor', 'var', 'png', 'advertis', 'localnew', 'became', 'earthdotcom', 'headerbutton', 'stat', 'cbbc', 'google', 'odnoklassniki', 'bbcworldwide', 'explod', 'shar', 'charset', 'invok', 'driv', 'lazyload', 'webkit', 'enhanc', 'ensur', 'navpromo', 'blog', 'lib', 'async', 'styl', 'actres', 'closeable', 'btn', 'dcdcdc', 'moz', 'webmodul', 'ltr', 'synchronou', 'miterlimit', ... 'substr', 'bbcpage', 'modul', 'docu', 'placeholder', 'meneame', 'bitesize', 'ssc', 'ellipsi', 'gt', 'giv', 'makeitdigital', 'comp', 'choic', 'overachiever', 'focu', 'plu', 'xxl', 'bos', 'investigat', 'utf', 'svg', 'dialog', 'unescape', 'usingthebbc', 'bbcuser', 'debug', 'transmitt', 'gscontxt', 'progid', 'radiu', 'unus', 'bramstein', 'thi', 'lx', 'const', 'nav', 'googletagservic', 'echoclient', 'bbcprivacy', 'idcta', 'cy', 'imrworldwide', 'cookie', 'com', 'autocorrect', 'gb', 'cach', 'http', 'provid', 'ap', 'renren', 'hatena', 'padd', 'disabl', 'isn', 'dai', 'pathname']
+		Length of raw response: 246645
+		Number of unknown words in of raw response: 370
+		Number of unknown word stems in of raw response: 305
+		\end{lstlisting}
 		
 		
 		\subsection*{Problem 29}
@@ -120,15 +156,6 @@
 		ARI Score: 31
 		\end{lstlisting}
 		
-		
-		\subsection*{Problem 42}
-		Use WordNet to create a semantic index for a text collection. Extend the concordance search program in 3.6, indexing each word using the offset of its first synset, e.g. \codeword{wn.synsets('dog')[0].offset} (and optionally the offset of some of its ancestors in the hypernym hierarchy).
-		
-	\section*{Part II}
-
-
-	Perform exercise 42 (above) on the raw text of the TEI XML file. You can find any TEI XML text but you could start with an English translation. 
-	
 	\section*{Part III}
 	 Identify a possible available textual source that you might use for a project and identify the possible challenges that you will face in preprocessing the text. \\
 	 
