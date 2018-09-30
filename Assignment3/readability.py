@@ -24,10 +24,10 @@ def readability(input):
 	letters_per_word = len(letters) / len(words)
 	words_per_sentence = len(words) / len(sentences)
 	
-	ari_score = 4.71 * letters_per_word + 0.5 * words_per_sentence - 21.43
+	ari_score = (4.71 * float(letters_per_word)) + (0.5 * float(words_per_sentence)) - 21.43
 	print("Letters per word: %s" % letters_per_word)
-	print("Words per sentence: %d" % words_per_sentence)
-	print("ARI Score: %d" % ari_score)
+	print("Words per sentence: %s" % words_per_sentence)
+	print("ARI Score: %s" % ari_score)
 	
 
 if __name__ == '__main__':
