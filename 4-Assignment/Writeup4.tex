@@ -1,0 +1,97 @@
+\documentclass[12pt]{article}
+\usepackage{listings}
+\usepackage{caption}
+\DeclareCaptionFont{white}{\color{white}}
+\DeclareCaptionFormat{listing}{%
+	\parbox{\textwidth}{\colorbox{gray}{\parbox{\textwidth}{#1#2#3}}\vskip-4pt}}
+\captionsetup[lstlisting]{format=listing,labelfont=white,textfont=white}
+\lstset{frame=lrb,xleftmargin=\fboxsep,xrightmargin=-\fboxsep}
+
+\usepackage{color}
+\usepackage{xcolor}
+
+\usepackage{xparse}
+
+\usepackage{graphicx}
+\graphicspath{ {.} }
+
+\NewDocumentCommand{\codeword}{v}{%
+	\texttt{\textcolor{blue}{#1}}%
+}
+
+\definecolor{dkgreen}{rgb}{0,0.6,0}
+\definecolor{gray}{rgb}{0.5,0.5,0.5}
+\definecolor{mauve}{rgb}{0.58,0,0.82}
+
+\lstset{frame=tb,
+	language=Java,
+	aboveskip=3mm,
+	belowskip=3mm,
+	showstringspaces=false,
+	columns=flexible,
+	basicstyle={\small\ttfamily},
+	numbers=none,
+	numberstyle=\tiny\color{gray},
+	keywordstyle=\color{blue},
+	commentstyle=\color{dkgreen},
+	stringstyle=\color{mauve},
+	breaklines=true,
+	breakatwhitespace=true,
+	tabsize=3
+}
+
+\newenvironment{solution}[1][]{
+	\vspace{10px}\noindent\emph{Solution #1}
+}{
+	\vspace{10px}
+}
+
+\begin{document}
+
+	\section*{Problem 19}
+	The \codeword{evaluate()} method works out how accurately the tagger performs on this text. For example, if the supplied tagged text was \codeword{[('the', 'DT'), ('dog', 'NN')]} and the tagger produced the output \codeword{[('the', 'NN'), ('dog', 'NN')]}, then the score would be 0.5. Let's try to figure out how the evaluation method works:
+	\begin{enumerate}
+		\item A tagger \codeword{t} takes a list of words as input, and produces a list of tagged words as output. However, \codeword{t.evaluate()} is given correctly tagged text as its only parameter. What must it do with this input before performing the tagging?
+		
+		It must tokenize every word in the input list, strip out whitespaces, and also strip ot stop characters. It must also look at the context of each word in the sentence to determine what part of speech best fits the current use before deciding on a tag. 
+		
+		\item Once the tagger has created newly tagged text, how might the \codeword{evaluate()} method go about comparing it with the original tagged text and computing the accuracy score?
+		
+		The tagger \codeword{t} must store the tagged words-output in a member of its class, to use in later function calls.
+		
+		\item Now examine the source code to see how the method is implemented. Inspect \codeword{nltk.tag.api.__file__} to discover the location of the source code, and open this file using an editor.\\
+		
+		Source Code for \codeword{evaluate()}:
+		\begin{lstlisting}
+		def evaluate(self, gold):
+			"""
+			Score the accuracy of the tagger against the gold standard.
+			Strip the tags from the gold standard text, retag it using
+			the tagger, then compute the accuracy score.
+			
+			:type gold: list(list(tuple(str, str)))
+			:param gold: The list of tagged sentences to score the tagger on.
+			:rtype: float
+			"""
+			
+			tagged_sents = self.tag_sents(untag(sent) for sent in gold)
+			gold_tokens = list(chain(*gold))
+			test_tokens = list(chain(*tagged_sents))
+			return accuracy(gold_tokens, test_tokens)
+		\end{lstlisting}
+	\end{enumerate}
+	
+	\section*{Problem 20}
+	Write code to search the Brown Corpus for particular words and phrases according to tags, to answer the following questions:
+	\begin{enumerate}
+		\item Produce an alphabetically sorted list of the distinct words tagged as MD.
+		\item Identify words that can be plural nouns or third person singular verbs (e.g. deals, flies).
+		\item Identify three-word prepositional phrases of the form IN + DET + NN (eg. in the lab).
+		\item What is the ratio of masculine to feminine pronouns?
+	\end{enumerate}
+	
+	
+	\section*{Problem 26}
+	 \codeword{4.1} plotted a curve showing change in the performance of a lookup tagger as the model size was increased. Plot the performance curve for a unigram tagger, as the amount of training data is varied.
+	
+\end{document}
