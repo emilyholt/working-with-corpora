@@ -142,45 +142,93 @@
 		def find_phrase():
 			for tagged_sent in brown.tagged_sents():
 				for (w1,t1), (w2,t2), (w3,t3) in nltk.trigrams(tagged_sent):
-					if (t1=='IN' and t2 == 'DT' and t3=='NN'):
-					print(w1, w2, w3)
+					if (t1=='IN' and t2 == 'AT' and t3=='NN'):
+						print(w1, w2, w3)
 		\end{lstlisting}
 		
 		Output:
 		\begin{lstlisting}
 		$python find_phrase.py
-		[]at that time
-		over this couple
-		of this nation
-		of this collection
-		for that matter
-		of this idea
-		by this news
-		of this sort
-		of this letter
-		with this subject
-		of that picture
-		in that position
-		at this juncture
-		of this nut
-		on this side
-		in that outfit
-		In this manner
-		of this veteran
-		In this country
-		In this work
-		in that milieu
-		In that case
-		for this autumn
+		[for the moment
+		from the curio
+		by a hammer
+		in the subcontinent
+		by a fish
+		After a while
+		by the process
+		from the idol
+		without the threat
+		to a television
+		to the top
+		in an elevator
+		to the dozen
+		of a nemesis
+		on the street
+		of the hex
+		into a seat
+		across the aisle
 		...]
 		\end{lstlisting}
 		
 		\item What is the ratio of masculine to feminine pronouns?
+		
+		Output:
+		\begin{lstlisting}
+		$ python3 expanded_tagger.py
+		Masculine pronouns: 12816
+		Feminine pronouns: 4108
+		Ratio: 3.1197663096397275
+		\end{lstlisting}
+		
+		Code:
+		\begin{lstlisting}
+		def gendered_tags():
+			tagged_words = nltk.corpus.brown.tagged_words(tagset='universal')
+			masculine_pronouns = ['his', 'hisself',  'him','hymselfe', 'he', 'himself',"'im",'himselfe', 'hym']
+			feminine_pronouns = ['herself', 'her','hers','she',]
+			
+			masculine_instances = 0
+			feminine_instances = 0
+			
+			for tag_pair in tagged_words:
+				if tag_pair[1] == 'PRON':
+					if tag_pair[0].lower() in masculine_pronouns:
+						masculine_instances += 1
+					if tag_pair[0].lower() in feminine_pronouns:
+						feminine_instances += 1
+			
+			print("Masculine pronouns: %s" % masculine_instances)
+			print("Feminine pronouns: %s" % feminine_instances)
+			print("Ratio: %s" % (masculine_instances / feminine_instances))
+		\end{lstlisting}
 		
 	\end{enumerate}
 	
 	
 	\section*{Problem 26}
 	 \codeword{4.1} plotted a curve showing change in the performance of a lookup tagger as the model size was increased. Plot the performance curve for a unigram tagger, as the amount of training data is varied.
+	 
+	 \includegraphics[scale=1.0]{Figure_1.png}.
+	 
+	 Code:
+	 \begin{lstlisting}
+	 def unigram_performance(cfd, set_size):
+		 brown_tagged_sents = brown.tagged_sents(categories='news')
+		 unigram_tagger = nltk.UnigramTagger(brown_tagged_sents[:set_size])
+		 return unigram_tagger.evaluate(brown.tagged_sents(categories='news'))
+	 
+	 def display():
+		 cfd = nltk.ConditionalFreqDist(brown.tagged_words(categories='news'))
+		 set_sizes = list(range(10, len(brown.sents(categories='news')), 10))
+		 perfs = [unigram_performance(cfd, size) for size in set_sizes]
+		 pylab.plot(set_sizes, perfs, '-bo')
+		 
+		 pylab.title('Lookup Tagger Performance with Varying Training Set Size')
+		 pylab.xlabel('Training Set Size')
+		 pylab.ylabel('Performance')
+		 pylab.show()
+	 
+	 display()
+	 \end{lstlisting}
 	
 \end{document}

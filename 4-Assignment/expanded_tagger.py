@@ -33,12 +33,31 @@ def multi_tags():
 def find_phrase():
     for tagged_sent in brown.tagged_sents():
         for (w1,t1), (w2,t2), (w3,t3) in nltk.trigrams(tagged_sent):
-            if (t1=='IN' and t2 == 'DT' and t3=='NN'):
-            # if (t1.startswith('V') and t2 == 'TO' and t3.startswith('V')):
+            if (t1=='IN' and t2 == 'AT' and t3=='NN'):
                 print(w1, w2, w3)
-                # print((w1,t1), (w2,t2), (w3,t3))
+
+def gendered_tags():
+    tagged_words = nltk.corpus.brown.tagged_words(tagset='universal')
+    masculine_pronouns = ['his', 'hisself',  'him','hymselfe', 'he', 'himself',"'im",'himselfe', 'hym']
+    feminine_pronouns = ['herself', 'her','hers','she',]
+
+    masculine_instances = 0
+    feminine_instances = 0
+
+    for tag_pair in tagged_words:
+        if tag_pair[1] == 'PRON':
+            if tag_pair[0].lower() in masculine_pronouns:
+                masculine_instances += 1
+            if tag_pair[0].lower() in feminine_pronouns:
+                feminine_instances += 1
+
+    print("Masculine pronouns: %s" % masculine_instances)
+    print("Feminine pronouns: %s" % feminine_instances)
+    print("Ratio: %s" % (masculine_instances / feminine_instances))
+
+
 
 if __name__ == '__main__':
-    find_phrase()
+    gendered_tags()
 
 
