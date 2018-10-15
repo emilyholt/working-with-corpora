@@ -1,0 +1,17 @@
+Shakespeare
+[ ] Macbeth
+[ ] Measure for Measure
+[ ] A Midsummer Night's Dream
+[x] The Merchant of Venice
+[x] Othello
+[ ] Pericles Prince of Tyre
+[ ] The Phoenix and the Turtle
+[ ] The Passionate Pilgrim
+[x] Richard II
+[x] Richard III
+[x] Romeo and Juliet
+[x] The Taming of the Shrew 
+
+Marlowe
+[ ] Edward II
+[ ] Dido, Queen of Carthage
