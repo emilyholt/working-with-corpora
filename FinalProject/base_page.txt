@@ -1,0 +1,1294 @@
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+<head>
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width,initial-scale=1">
+	<meta content="IE=Edge,chrome=1" http-equiv="X-UA-Compatible">
+	<meta name="google-site-verification" content="Xj7FfZdtp6mP3WTzB5h1ZBQ0HvQoLJgsmyPdzUdti2c" />
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	
+	<link rel="pingback" href="http://www.songofstyle.com/xmlrpc.php">
+<title>Song of Style | A Fashion &amp; Interior Design Blog</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v8.4 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="A fashion &amp; interior design blog written by Los Angeles based interior designer Aimee Song, featuring daily fashion photos, design inspiration, and more."/>
+<link rel="canonical" href="http://www.songofstyle.com/page/2" />
+<link rel="prev" href="http://www.songofstyle.com/" />
+<link rel="next" href="http://www.songofstyle.com/page/3" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Song of Style | A Fashion &amp; Interior Design Blog" />
+<meta property="og:description" content="A fashion &amp; interior design blog written by Los Angeles based interior designer Aimee Song, featuring daily fashion photos, design inspiration, and more." />
+<meta property="og:url" content="http://www.songofstyle.com/" />
+<meta property="og:site_name" content="Song of Style" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="A fashion &amp; interior design blog written by Los Angeles based interior designer Aimee Song, featuring daily fashion photos, design inspiration, and more." />
+<meta name="twitter:title" content="Song of Style | A Fashion &amp; Interior Design Blog" />
+<meta name="twitter:site" content="@aimeesong" />
+<script type='application/ld+json'>{"@context":"https:\/\/schema.org","@type":"WebSite","@id":"#website","url":"http:\/\/www.songofstyle.com\/","name":"Song of Style","potentialAction":{"@type":"SearchAction","target":"http:\/\/www.songofstyle.com\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//maxcdn.bootstrapcdn.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Song of Style &raquo; Feed" href="http://www.songofstyle.com/feed" />
+<link rel="alternate" type="application/rss+xml" title="Song of Style &raquo; Comments Feed" href="http://www.songofstyle.com/comments/feed" />
+<!-- This site uses the Google Analytics by MonsterInsights plugin v7.2.0 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+<script type="text/javascript" data-cfasync="false">
+	var mi_version         = '7.2.0';
+	var mi_track_user      = true;
+	var mi_no_track_reason = '';
+	
+	var disableStr = 'ga-disable-UA-6153561-1';
+
+	/* Function to detect opted out users */
+	function __gaTrackerIsOptedOut() {
+		return document.cookie.indexOf(disableStr + '=true') > -1;
+	}
+
+	/* Disable tracking if the opt-out cookie exists. */
+	if ( __gaTrackerIsOptedOut() ) {
+		window[disableStr] = true;
+	}
+
+	/* Opt-out function */
+	function __gaTrackerOptout() {
+	  document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+	  window[disableStr] = true;
+	}
+	
+	if ( mi_track_user ) {
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
+
+		__gaTracker('create', 'UA-6153561-1', 'auto');
+		__gaTracker('set', 'forceSSL', true);
+		__gaTracker('require', 'displayfeatures');
+		__gaTracker('send','pageview', location.pathname + location.search + location.hash);
+	} else {
+		console.log( "" );
+		(function() {
+			/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+			var noopfn = function() {
+				return null;
+			};
+			var noopnullfn = function() {
+				return null;
+			};
+			var Tracker = function() {
+				return null;
+			};
+			var p = Tracker.prototype;
+			p.get = noopfn;
+			p.set = noopfn;
+			p.send = noopfn;
+			var __gaTracker = function() {
+				var len = arguments.length;
+				if ( len === 0 ) {
+					return;
+				}
+				var f = arguments[len-1];
+				if ( typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function' ) {
+					console.log( 'Not running function __gaTracker(' + arguments[0] + " ....) because you are not being tracked. " + mi_no_track_reason );
+					return;
+				}
+				try {
+					f.hitCallback();
+				} catch (ex) {
+
+				}
+			};
+			__gaTracker.create = function() {
+				return new Tracker();
+			};
+			__gaTracker.getByName = noopnullfn;
+			__gaTracker.getAll = function() {
+				return [];
+			};
+			__gaTracker.remove = noopfn;
+			window['__gaTracker'] = __gaTracker;
+					})();
+		}
+</script>
+<!-- / Google Analytics by MonsterInsights -->
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.songofstyle.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.8"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<style type="text/css">
+	.wp-pagenavi{float:left !important; }
+	</style>
+  <link rel='stylesheet' id='contact-form-7-css'  href='http://www.songofstyle.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.0.4' type='text/css' media='all' />
+<link rel='stylesheet' id='jpibfi-style-css'  href='http://www.songofstyle.com/wp-content/plugins/jquery-pin-it-button-for-images/css/client.css?ver=3.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='pr-common-style-css'  href='http://www.songofstyle.com/wp-content/plugins/postrevolution/assets/css/libs/common.css?ver=4.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='uaf_client_css-css'  href='http://www.songofstyle.com/wp-content/uploads/useanyfont/uaf.css?ver=1538663374' type='text/css' media='all' />
+<link rel='stylesheet' id='ponsonby-fonts-css'  href='//fonts.googleapis.com/css?family=Open+Sans%3A400italic%2C700italic%2C400%2C700%7CPT+Serif%3A400%2C700%2C400italic%2C700italic&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='ponsonby-style-css'  href='http://www.songofstyle.com/wp-content/themes/ponsonby/style.css?ver=20150825d' type='text/css' media='all' />
+<link rel='stylesheet' id='genericons-css'  href='http://www.songofstyle.com/wp-content/themes/ponsonby/genericons/genericons.css?ver=3.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='cssmenu-styles-css'  href='http://www.songofstyle.com/wp-content/themes/ponsonby/cssmenu/styles.css?ver=4.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='googlefonts-css'  href='http://fonts.googleapis.com/css?family=Lato%7CCinzel%7CPlayfair+Display%3A400%2C400italic%2C700%2C700italic&#038;ver=4.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='sos-fonts-css'  href='http://www.songofstyle.com/wp-content/themes/ponsonby/fonts/fonts.css?ver=2016-06-07-18-49' type='text/css' media='all' />
+<link rel='stylesheet' id='fontawesome-css'  href='https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css?ver=4.9.8' type='text/css' media='all' />
+<link rel='stylesheet' id='cd-extra-style-css'  href='http://www.songofstyle.com/wp-content/themes/ponsonby/css/extra.css?ver=2018-11-01-11-11' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-pagenavi-style-css'  href='http://www.songofstyle.com/wp-content/plugins/wp-pagenavi-style/css/css3_black.css?ver=1.0' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var monsterinsights_frontend = {"js_events_tracking":"true","is_debug_mode":"false","download_extensions":"doc,exe,js,pdf,ppt,tgz,zip,xls","inbound_paths":"","home_url":"http:\/\/www.songofstyle.com","track_download_as":"event","internal_label":"int","hash_tracking":"true"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.songofstyle.com/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend.min.js?ver=7.2.0'></script>
+<script type='text/javascript' src='http://www.songofstyle.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://www.songofstyle.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://www.songofstyle.com/wp-content/plugins/tiny-carousel-horizontal-slider/inc/jquery.tinycarousel.js?ver=4.9.8'></script>
+<script type='text/javascript' src='http://www.songofstyle.com/wp-content/plugins/wp-hide-post/public/js/wp-hide-post-public.js?ver=2.0.10'></script>
+<script type='text/javascript' src='http://www.songofstyle.com/wp-content/themes/ponsonby/js/jquery.fitvids.js?ver=1.1'></script>
+<link rel='https://api.w.org/' href='http://www.songofstyle.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.songofstyle.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.songofstyle.com/wp-includes/wlwmanifest.xml" /> 
+<style type="text/css">
+	a.pinit-button.custom span {
+	background-image: url("http://www.songofstyle.com/wp-content/uploads/2015/08/pin_pink.png");	}
+
+	.pinit-hover {
+		opacity: 1 !important;
+		filter: alpha(opacity=100) !important;
+	}
+	a.pinit-button {
+	border-bottom: 0 !important;
+	box-shadow: none !important;
+	margin-bottom: 0 !important;
+}
+a.pinit-button::after {
+    display: none;
+}</style>
+		<script type="text/javascript">
+	window._zem_rp_post_id = '25188';
+	window._zem_rp_thumbnails = true;
+	window._zem_rp_post_title = 'Heart-Shaped+Earrings+are+Officially+the+Next+Big+Thing';
+	window._zem_rp_post_tags = ['fashion', 'trend+guides', 'jewelri', 'renta', 'white', 'amp', 'gold', 'pink', 'eliza', 'bead', 'blue', 'pearl', 'pendant', 'heart', 'rhineston', 'spade', 'red'];
+	window._zem_rp_static_base_url = 'https://content.zemanta.com/static/';
+	window._zem_rp_wp_ajax_url = 'http://www.songofstyle.com/wp-admin/admin-ajax.php';
+	window._zem_rp_plugin_version = '1.14';
+	window._zem_rp_num_rel_posts = '3';
+</script>
+	<style type="text/css">
+	 .wp-pagenavi
+	{
+		font-size:12px !important;
+	}
+	</style>
+	    <style type="text/css" id="ponsonby-themeoptions-css">
+    .entry-content a,
+    .author-description a,
+    .comment-text a,
+    a.more-link,
+    #colophon a,
+    .entry-cats a,
+    .intro-text a,
+    .textwidget a,
+    a.more-link,
+    .widget_ponsonby_recentposts h3.widget-title,
+    .two-columns-big .widget_ponsonby_quote h3.widget-title {
+        color: #999999;
+    }
+    #mobile-menu-toggle,
+    #mobile-menu-close,
+    #moreinfo-close,
+    input[type="button"],
+    input[type="submit"] {
+        background: #999999;
+    }
+    input[type="button"],
+    input[type="submit"] {
+        border: 1px solid #999999;
+    }
+                </style>
+    
+<!--Plugin WP Missed Schedule Active - Secured with Genuine Authenticity KeyTag-->
+
+<!-- This site is patched against a big problem not solved since WordPress 2.5 -->
+
+		<style type="text/css" id="wp-custom-css">
+			html body .entry-content a {
+	color:#d09f9d;
+}
+
+li#menu-item-14812 a span, .menu-item-14812 a {
+color: #E71818 !important;
+}
+#cssmenu .menu li a[href*="holiday"],
+#site-nav .menu li a[href*="holiday"] {
+	color:#E71818;
+	font-weight:bold;
+}
+
+.menu .menu-item.highlighted a {
+	color:#E71818 !important;
+}
+
+/**
+ * Footer menu
+ */
+#social-icons-footer > ul {
+    box-sizing: border-box;
+    margin:0 !important;
+    width:50%;
+}
+
+#social-icons-footer > ul li {
+    display: inline-block;
+    float: none;
+}
+
+#menu-disclaimer-menu li.menu-item {
+    width: auto;
+}
+
+body.page-template-page-book #primary-1 {
+margin-top: 150px;
+margin-bottom: 100px;
+}
+
+body.page-template-page-book .image-side {
+    width: 40%;
+    display: inline-block;
+vertical-align:top;
+
+}
+
+
+
+body.page-template-page-book .content-side {
+    width: 48%;
+    display: inline-block;
+    margin-left: 10%;
+vertical-align:top;
+}
+
+body.page-template-page-book .content-side a {
+    background: #000;
+    color: #FFF;
+    padding: 10px 30px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+margin: 20px 0 0;
+    width: 385px;
+    display: block;
+text-align:center;
+
+}
+
+body.page-template-page-book .content-side a:hover{
+text-decoration: none;
+}
+
+body.page-template-page-book .entry-title {
+    letter-spacing: 0.25px;
+    font-weight: bold;
+    word-wrap: break-word;
+    font-size: 1.5rem;
+    line-height: 0.85;
+    margin-bottom: 1em;
+
+}
+
+body.page-template-page-book #primary-1 p {
+font-size: 0.9em;
+    line-height: 1.75;
+}
+
+body.page-template-page-book .also-logos a {
+    width: 14%;
+    display: inline-block;
+    text-align: center;
+}
+
+body.page-template-page-book .also-intro {
+position: relative;
+    margin-top: 100px;
+    margin-bottom: 40px;
+}
+
+body.page-template-page-book .also-intro:before {
+    border-bottom: 2px solid #cbcbcb;
+    bottom: 13px;
+    content: "";
+    left: 0;
+    margin: 0 auto;
+    position: absolute;
+    right: 0;
+    top: 6px;
+    z-index: -1;
+}
+
+body.page-template-page-book .also-intro p{
+    text-transform: uppercase;
+    margin: 10px 0 5px;
+    font-size: 10px;
+    font-weight: normal;
+    letter-spacing: 2px;
+    line-height: 25px;
+    font-family: 'Twentieth Century W01', Lato;
+    color: #b8b8b8;
+text-align:center;
+}
+
+body.page-template-page-book .also-intro p span {
+    background: #FFF;
+    display: block;
+    width: 180px;
+    margin: 0px auto;
+}
+
+@media screen and (max-width: 767px) { 
+body.page-template-page-book .image-side {
+    width: 100%;
+    display: block;
+
+}
+
+body.page-template-page-book .image-side img{
+max-width: 300px;
+    margin: -110px auto 50px;
+display:block;
+}
+
+body.page-template-page-book .content-side {
+    width: 100%;
+    display: block;
+margin: 0;
+text-align:center;
+}
+
+body.page-template-page-book .content-side a {
+float:none;
+width: initial;
+max-width: 385px;
+margin: 10px auto 0;
+}
+
+body.page-template-page-book #primary-1 p {
+
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+body.page-template-page-book .also-logos a {
+width:15%
+}
+
+}
+
+.product-item {
+    min-height: 445px;
+}
+.product-item .thumbnail .caption{     min-height: 140px;}
+
+.product-item .thumbnail .caption .title {line-height: 1.1em;}
+
+.product-item img {
+    max-height: 150px;
+
+}
+
+div#video-home .widget_sp_image {
+    max-height: 215px!important;
+
+}
+
+
+@media (max-width: 1280px) {
+body.page-template-page-book .also-logos a { width: 13.7%; }
+}
+
+@media (max-width: 520px) {
+body.page-template-page-book .also-logos a { width: 13.4%; }
+}
+
+
+.latest-video .video-wrap .video-title {
+	min-height: 50px;
+}
+#site-info {
+    margin-top: 40px;
+}
+body #menu-disclaimer-menu li a,
+body #menu-footer-menu li a {
+	font-size:10px;
+}		</style>
+	
+</head>
+
+<body class="home blog paged paged-2">
+	<div id="wrap" class="header-wrap">
+	<header id="masthead" class="cf" role="banner">
+
+		
+		<div class="header-info-wrap">
+			<div class="moreinfo-btn-wrap">
+				<!--<div id="moreinfo-toggle"><span>More Info</span></div>-->
+				<div id="mobile-menu-toggle"><span>Menu</span></div>
+			</div>
+
+			<div class="header-info">
+												<nav id="header-top-nav">
+					<div id="cssmenu" class="menu-main-navigation-container"><ul id="menu-main-navigation" class="menu"><li id="menu-item-10394" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has-sub"><a target="_blank" href="/shop/"><span>SHOP</span></a>
+<ul>
+	<li id="menu-item-11024" class="menu-item menu-item-type-custom menu-item-object-custom"><a target="_blank" href="http://www.twosongs.com"><span>Two Songs</span></a></li>
+	<li id="menu-item-19603" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="/ootd/"><span>OOTD</span></a></li>
+	<li id="menu-item-14739" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.songofstyle.com/shop"><span>Favorites</span></a></li>
+</ul>
+</li>
+<li id="menu-item-22793" class="highlighted menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.songofstyle.com/shop/festival-season"><span>Festival</span></a></li>
+<li id="menu-item-8523" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has-sub"><a><span>Categories</span></a>
+<ul>
+	<li id="menu-item-10762" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://www.songofstyle.com/category/beauty"><span>Beauty</span></a></li>
+	<li id="menu-item-8240" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://www.songofstyle.com/category/songofstyle/aimee-look"><span>Aimee&#8217;s look</span></a></li>
+	<li id="menu-item-8249" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://www.songofstyle.com/category/travel"><span>Travel</span></a></li>
+	<li id="menu-item-8241" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://www.songofstyle.com/category/lifestyle/interior"><span>Interior</span></a></li>
+	<li id="menu-item-8242" class="hide-mobile menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://www.songofstyle.com/category/fashion/fashion-week"><span>Fashion Week</span></a></li>
+</ul>
+</li>
+<li id="menu-item-69" class="menu-item menu-item-type-custom menu-item-object-custom"><a title="http://www.youtube.com/user/songofstyleblog" target="_blank" href="http://www.youtube.com/user/songofstyleblog"><span>Videos</span></a></li>
+<li id="menu-item-61" class="menu-item menu-item-type-post_type menu-item-object-page"><a title="Contact Song of Style" href="http://www.songofstyle.com/contact"><span>Contact</span></a></li>
+<li id="menu-item-12217" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.songofstyle.com/about"><span>About</span></a></li>
+<li id="menu-item-14812" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.songofstyle.com/world-of-style-book-by-aimee-song"><span>Book</span></a></li>
+<li id="menu-item-73" class="menu-item-social menu-item-social-instagram menu-item menu-item-type-custom menu-item-object-custom"><a target="_blank" href="http://instagram.com/songofstyle"><span><i class="fa fa-instagram fa-lg"></i></span></a></li>
+<li id="menu-item-71" class="menu-item-social menu-item-social-twitter menu-item menu-item-type-custom menu-item-object-custom"><a target="_blank" href="http://twitter.com/aimeesong"><span><i class="fa fa-twitter fa-lg"></i></span></a></li>
+<li id="menu-item-72" class="menu-item-social menu-item-social-facebook menu-item menu-item-type-custom menu-item-object-custom"><a target="_blank" href="http://www.facebook.com/SongOfStyle"><span><i class="fa fa-facebook fa-lg"></i></span></a></li>
+<li id="menu-item-74" class="menu-item-social menu-item-social-pinterest menu-item menu-item-type-custom menu-item-object-custom"><a target="_blank" href="http://pinterest.com/songofstyle/"><span><i class="fa fa-pinterest fa-lg"></i></span></a></li>
+<li id="menu-item-8265" class="menu-item menu-item-type-custom menu-item-object-custom"><a target="_blank" href="http://bloglovin.com/blog/493482/song-of-style"><span><i class="fa fa-heart fa-lg"></i></span></a></li>
+</ul></div>				</nav><!-- end #header-top -->
+								<div id="moreinfo-close"><span>Close More Info</span></div>
+			</div><!-- end .header-info -->
+
+				</div><!-- end .header-info-wrap -->
+
+
+		<div class="title-wrap">
+			<div id="site-title">
+
+				<div id="site-header">
+					<a href="http://www.songofstyle.com/" rel="home"><img src="http://www.songofstyle.com/wp-content/themes/ponsonby/image/songofstyle-logo-750.png" alt=""></a>
+				</div><!-- end #site-header -->
+
+				<p class="site-description"></p>
+			</div><!-- end #site-title -->
+
+			<!--<div id="mobile-menu-toggle"><span>Menu</span></div>-->
+
+		</div><!-- end .title-wrap -->
+
+
+
+
+		<div id="social-icons" class="social-img">
+			<div id="social-icons">
+				
+				<div class="searchbox">
+						
+
+<form role="search" method="get" id="searchform" class="searchform" action="http://www.songofstyle.com/" role="search">
+	<label for="s" class="screen-reader-text"><span>Search</span></label>
+	<!-- <img src="http://www.songofstyle.com/wp-content/themes/ponsonby/image/search.png" /> -->
+	<i class="fa fa-search"></i>
+	<input type="text" class="search-field" name="s" id="s" value="SEARCH"  onblur="if (this.value == '') {this.value = 'SEARCH';}"
+ onfocus="if (this.value == 'SEARCH') {this.value = '';}" />
+	<input type="submit" class="submit" name="submit" id="searchsubmit" value="Search" />
+</form>
+
+				</div>
+
+
+				<ul id="social-right">
+					<li><a href="http://www.facebook.com/SongOfStyle" target="_blank"><i class="fa fa-facebook"></i></a></li>
+					<li><a href="http://twitter.com/aimeesong" target="_blank"><i class="fa fa-twitter"></i></a></li>
+					<li><a href="http://instagram.com/songofstyle" target="_blank"><i class="fa fa-instagram"></i></a></li>
+					<!--<li><a href=""><img src="http://www.songofstyle.com/wp-content/themes/ponsonby/image/tumb.png" /></a></li>-->
+					<li><a href="http://pinterest.com/songofstyle/" target="_blank"><i class="fa fa-pinterest"></i></a></li>
+					<li><a href="https://www.youtube.com/user/songofstyleblog" target="_blank"><i class="fa fa-youtube-play"></i></a></li>
+					<li><a href="http://bloglovin.com/blog/493482/song-of-style" target="_blank"><i class="fa fa-heart"></i></a></li>
+				</ul>
+			</div>
+		</div>
+
+		<div id="main-menu-wrap" class="sticky-element cf">
+				<div class="sticky-anchor"></div>
+
+
+				<div class="searchbox-mobile">
+						
+
+<form role="search" method="get" id="searchform" class="searchform" action="http://www.songofstyle.com/" role="search">
+	<label for="s" class="screen-reader-text"><span>Search</span></label>
+	<!-- <img src="http://www.songofstyle.com/wp-content/themes/ponsonby/image/search.png" /> -->
+	<i class="fa fa-search"></i>
+	<input type="text" class="search-field" name="s" id="s" value="SEARCH"  onblur="if (this.value == '') {this.value = 'SEARCH';}"
+ onfocus="if (this.value == 'SEARCH') {this.value = '';}" />
+	<input type="submit" class="submit" name="submit" id="searchsubmit" value="Search" />
+</form>
+
+				</div>
+
+
+				<nav id="site-nav" class="sticky-content cf">
+					<ul id="menu-main-navigation-1" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-10394"><a target="_blank" href="/shop/">SHOP</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11024"><a target="_blank" href="http://www.twosongs.com">Two Songs</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19603"><a href="/ootd/">OOTD</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14739"><a href="http://www.songofstyle.com/shop">Favorites</a></li>
+</ul>
+</li>
+<li class="highlighted menu-item menu-item-type-post_type menu-item-object-page menu-item-22793"><a href="http://www.songofstyle.com/shop/festival-season">Festival</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-8523"><a>Categories</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10762"><a href="http://www.songofstyle.com/category/beauty">Beauty</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8240"><a href="http://www.songofstyle.com/category/songofstyle/aimee-look">Aimee&#8217;s look</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8249"><a href="http://www.songofstyle.com/category/travel">Travel</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8241"><a href="http://www.songofstyle.com/category/lifestyle/interior">Interior</a></li>
+	<li class="hide-mobile menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8242"><a href="http://www.songofstyle.com/category/fashion/fashion-week">Fashion Week</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-69"><a title="http://www.youtube.com/user/songofstyleblog" target="_blank" href="http://www.youtube.com/user/songofstyleblog">Videos</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-61"><a title="Contact Song of Style" href="http://www.songofstyle.com/contact">Contact</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12217"><a href="http://www.songofstyle.com/about">About</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14812"><a href="http://www.songofstyle.com/world-of-style-book-by-aimee-song">Book</a></li>
+<li class="menu-item-social menu-item-social-instagram menu-item menu-item-type-custom menu-item-object-custom menu-item-73"><a target="_blank" href="http://instagram.com/songofstyle"><i class="fa fa-instagram fa-lg"></i></a></li>
+<li class="menu-item-social menu-item-social-twitter menu-item menu-item-type-custom menu-item-object-custom menu-item-71"><a target="_blank" href="http://twitter.com/aimeesong"><i class="fa fa-twitter fa-lg"></i></a></li>
+<li class="menu-item-social menu-item-social-facebook menu-item menu-item-type-custom menu-item-object-custom menu-item-72"><a target="_blank" href="http://www.facebook.com/SongOfStyle"><i class="fa fa-facebook fa-lg"></i></a></li>
+<li class="menu-item-social menu-item-social-pinterest menu-item menu-item-type-custom menu-item-object-custom menu-item-74"><a target="_blank" href="http://pinterest.com/songofstyle/"><i class="fa fa-pinterest fa-lg"></i></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8265"><a target="_blank" href="http://bloglovin.com/blog/493482/song-of-style"><i class="fa fa-heart fa-lg"></i></a></li>
+</ul>				</nav><!-- end #site-nav -->
+				<div id="mobile-menu-close"><span>Close Menu</span></div>
+			</div><!-- end #mobile-menu-wrap -->
+
+
+	</header><!-- end #masthead -->
+	</div><!-- end .header-wrap -->
+
+
+
+<div id="main-container" class="main-contain-div">
+
+
+<div id="body-main">
+
+	
+	<div id="primary" class="site-content cf" role="main">
+
+		<article id="post-25188" class="cf default post-25188 post type-post status-publish format-standard has-post-thumbnail hentry category-fashion category-trend-guides">
+
+	<div class="entry-thumbnail">
+		<a href="http://www.songofstyle.com/2018/10/heart-shaped-earrings-are-officially-the-next-big-thing.html">
+		<div style="display: none;">has25188</div><input class="jpibfi" type="hidden"><img width="800" height="851" src="http://www.songofstyle.com/wp-content/uploads/2018/10/Aimee_song_of_style_heart_earrings_trend.jpg" class="attachment-ponsonby-big size-ponsonby-big wp-post-image" alt="" srcset="http://www.songofstyle.com/wp-content/uploads/2018/10/Aimee_song_of_style_heart_earrings_trend.jpg 800w, http://www.songofstyle.com/wp-content/uploads/2018/10/Aimee_song_of_style_heart_earrings_trend-282x300.jpg 282w, http://www.songofstyle.com/wp-content/uploads/2018/10/Aimee_song_of_style_heart_earrings_trend-768x817.jpg 768w, http://www.songofstyle.com/wp-content/uploads/2018/10/Aimee_song_of_style_heart_earrings_trend-658x700.jpg 658w, http://www.songofstyle.com/wp-content/uploads/2018/10/Aimee_song_of_style_heart_earrings_trend-300x319.jpg 300w, http://www.songofstyle.com/wp-content/uploads/2018/10/Aimee_song_of_style_heart_earrings_trend-560x596.jpg 560w" sizes="(max-width: 800px) 100vw, 800px" data-jpibfi-post-excerpt="" data-jpibfi-post-url="http://www.songofstyle.com/2018/10/heart-shaped-earrings-are-officially-the-next-big-thing.html" data-jpibfi-post-title="Heart-Shaped Earrings are Officially the Next Big Thing" data-jpibfi-src="http://www.songofstyle.com/wp-content/uploads/2018/10/Aimee_song_of_style_heart_earrings_trend.jpg" >		</a>
+	</div><!-- end .entry-thumbnail --><div class="singlepost-wrap">
+		<header class="entry-header">
+			<div class="entry-cats">
+				<a href="http://www.songofstyle.com/category/fashion">Fashion</a><a href="http://www.songofstyle.com/category/fashion/trend-guides">Trend Guides</a>			</div><!-- end .entry-cats -->
+
+			<h1 class="entry-title"><a href="http://www.songofstyle.com/2018/10/heart-shaped-earrings-are-officially-the-next-big-thing.html">Heart-Shaped Earrings are Officially the Next Big Thing</a></h1>
+
+			<div class="entry-details">
+					<div class="entry-date">
+						October 29, 2018					</div><!-- end .entry-date -->
+															<div class="entry-comments">
+						<a href="http://www.songofstyle.com/2018/10/heart-shaped-earrings-are-officially-the-next-big-thing.html#comments">11 comments</a>					</div><!-- end .entry-comments -->
+											</div><!-- end .entry-details -->
+		</header><!-- end .entry-header -->
+
+		<div class="entry-excerpt">
+			<input class="jpibfi" type="hidden"><p>Heart-shaped earrings are definitely the next huge trend in jewelry. As you guys know, I love shell-inspired jewelry and gold pendant necklaces. I&#8217;m so excited to wear the &hellip;</p>
+
+							<div class="entry-shop">
+					<h2 class="title line">Featured items</h2>
+
+					<div class="shopthepost-widget" data-widget-id="3327486">
+                <script type="text/javascript" language="javascript">
+                    !function(d,s,id){
+                        var e, p = /^http:/.test(d.location) ? 'http' : 'https';
+                        if(!d.getElementById(id)) {
+                            e     = d.createElement(s);
+                            e.id  = id;
+                            e.src = p + '://widgets.rewardstyle.com/js/shopthepost.js';
+                            d.body.appendChild(e);
+                        }
+                        if(typeof window.__stp === 'object') if(d.readyState === 'complete') {
+                            window.__stp.init();
+                        }
+                    }(document, 'script', 'shopthepost-script');
+                </script>
+                <div class="rs-adblock">
+                    <img src="//assets.rewardstyle.com/images/search/350.gif" style="width:15px;height:15px;" onerror="this.parentNode.innerHTML='Turn off your ad blocker to view content'" />
+                    <noscript>Turn on your JavaScript to view content</noscript>
+                </div>
+            </div>				</div>
+			
+			<a class="btn" href="http://www.songofstyle.com/2018/10/heart-shaped-earrings-are-officially-the-next-big-thing.html">Read more</a>
+		</div><!-- end .entry-excerpt -->
+
+		<footer class="entry-social">
+			
+			<a class="share" href="https://www.facebook.com/sharer/sharer.php?u=http://www.songofstyle.com/2018/10/heart-shaped-earrings-are-officially-the-next-big-thing.html&amp;redirect_uri=http://www.songofstyle.com/2018/10/heart-shaped-earrings-are-officially-the-next-big-thing.html" target="_blank"><img src="http://www.songofstyle.com/wp-content/themes/ponsonby/image/fb.png"></a>
+			<a class="share" href="https://twitter.com/intent/tweet?text=Heart-Shaped Earrings are Officially the Next Big Thing&amp;url=http://www.songofstyle.com/2018/10/heart-shaped-earrings-are-officially-the-next-big-thing.html" class="social-sharing-buttons-button" target="_blank"><img src="http://www.songofstyle.com/wp-content/themes/ponsonby/image/twtr2.png"></a>
+			<a class="pin" href="https://www.pinterest.com/pin/create/button/?url=http://www.songofstyle.com/2018/10/heart-shaped-earrings-are-officially-the-next-big-thing.html&amp;media=http://www.songofstyle.com/wp-content/uploads/2018/10/Aimee_song_of_style_heart_earrings_trend.jpg&amp;description=Heart-Shaped Earrings are Officially the Next Big Thing" target="_blank"><img src="http://www.songofstyle.com/wp-content/themes/ponsonby/image/pntrst.png"></a>
+		</footer><!-- end .entry-social -->
+
+	</div><!-- end .singlepost-wrap -->
+</article><!-- end .post-25188 -->
+
+
+
+				
+				
+				
+				
+<article id="post-25164" class="cf default post-25164 post type-post status-publish format-standard has-post-thumbnail hentry category-food-and-recipe category-lifestyle category-songofstyle">
+
+	<div class="entry-thumbnail">
+		<a href="http://www.songofstyle.com/2018/10/8-healthy-vegan-halloween-treats-for-you-to-try-right-now.html">
+		<div style="display: none;">has25164</div><input class="jpibfi" type="hidden"><img width="800" height="604" src="http://www.songofstyle.com/wp-content/uploads/2018/10/Aimee_song_of_style_halloween_healthy_snacks.jpg" class="attachment-ponsonby-big size-ponsonby-big wp-post-image" alt="" srcset="http://www.songofstyle.com/wp-content/uploads/2018/10/Aimee_song_of_style_halloween_healthy_snacks.jpg 800w, http://www.songofstyle.com/wp-content/uploads/2018/10/Aimee_song_of_style_halloween_healthy_snacks-300x227.jpg 300w, http://www.songofstyle.com/wp-content/uploads/2018/10/Aimee_song_of_style_halloween_healthy_snacks-768x580.jpg 768w, http://www.songofstyle.com/wp-content/uploads/2018/10/Aimee_song_of_style_halloween_healthy_snacks-700x529.jpg 700w, http://www.songofstyle.com/wp-content/uploads/2018/10/Aimee_song_of_style_halloween_healthy_snacks-560x423.jpg 560w" sizes="(max-width: 800px) 100vw, 800px" data-jpibfi-post-excerpt="" data-jpibfi-post-url="http://www.songofstyle.com/2018/10/8-healthy-vegan-halloween-treats-for-you-to-try-right-now.html" data-jpibfi-post-title="8 Healthy Vegan Halloween Treats for You to Try Right Now" data-jpibfi-src="http://www.songofstyle.com/wp-content/uploads/2018/10/Aimee_song_of_style_halloween_healthy_snacks.jpg" >		</a>
+	</div><!-- end .entry-thumbnail --><div class="singlepost-wrap">
+		<header class="entry-header">
+			<div class="entry-cats">
+				<a href="http://www.songofstyle.com/category/songofstyle">Song of Style</a><a href="http://www.songofstyle.com/category/lifestyle">Lifestyle</a><a href="http://www.songofstyle.com/category/lifestyle/food-and-recipe">Food &amp; Recipe</a>			</div><!-- end .entry-cats -->
+
+			<h1 class="entry-title"><a href="http://www.songofstyle.com/2018/10/8-healthy-vegan-halloween-treats-for-you-to-try-right-now.html">8 Healthy Vegan Halloween Treats for You to Try Right Now</a></h1>
+
+			<div class="entry-details">
+					<div class="entry-date">
+						October 28, 2018					</div><!-- end .entry-date -->
+															<div class="entry-comments">
+						<a href="http://www.songofstyle.com/2018/10/8-healthy-vegan-halloween-treats-for-you-to-try-right-now.html#comments">15 comments</a>					</div><!-- end .entry-comments -->
+											</div><!-- end .entry-details -->
+		</header><!-- end .entry-header -->
+
+		<div class="entry-excerpt">
+			<input class="jpibfi" type="hidden"><p>Can you believe that Halloween is almost here? Fall and Halloween are some of my favorite things about this time of year. However, it can be challenging to &hellip;</p>
+
+							<div class="entry-shop">
+					<h2 class="title line">Featured items</h2>
+
+					<div class="shopthepost-widget" data-widget-id="3325804">
+                <script type="text/javascript" language="javascript">
+                    !function(d,s,id){
+                        var e, p = /^http:/.test(d.location) ? 'http' : 'https';
+                        if(!d.getElementById(id)) {
+                            e     = d.createElement(s);
+                            e.id  = id;
+                            e.src = p + '://widgets.rewardstyle.com/js/shopthepost.js';
+                            d.body.appendChild(e);
+                        }
+                        if(typeof window.__stp === 'object') if(d.readyState === 'complete') {
+                            window.__stp.init();
+                        }
+                    }(document, 'script', 'shopthepost-script');
+                </script>
+                <div class="rs-adblock">
+                    <img src="//assets.rewardstyle.com/images/search/350.gif" style="width:15px;height:15px;" onerror="this.parentNode.innerHTML='Turn off your ad blocker to view content'" />
+                    <noscript>Turn on your JavaScript to view content</noscript>
+                </div>
+            </div>				</div>
+			
+			<a class="btn" href="http://www.songofstyle.com/2018/10/8-healthy-vegan-halloween-treats-for-you-to-try-right-now.html">Read more</a>
+		</div><!-- end .entry-excerpt -->
+
+		<footer class="entry-social">
+			
+			<a class="share" href="https://www.facebook.com/sharer/sharer.php?u=http://www.songofstyle.com/2018/10/8-healthy-vegan-halloween-treats-for-you-to-try-right-now.html&amp;redirect_uri=http://www.songofstyle.com/2018/10/8-healthy-vegan-halloween-treats-for-you-to-try-right-now.html" target="_blank"><img src="http://www.songofstyle.com/wp-content/themes/ponsonby/image/fb.png"></a>
+			<a class="share" href="https://twitter.com/intent/tweet?text=8 Healthy Vegan Halloween Treats for You to Try Right Now&amp;url=http://www.songofstyle.com/2018/10/8-healthy-vegan-halloween-treats-for-you-to-try-right-now.html" class="social-sharing-buttons-button" target="_blank"><img src="http://www.songofstyle.com/wp-content/themes/ponsonby/image/twtr2.png"></a>
+			<a class="pin" href="https://www.pinterest.com/pin/create/button/?url=http://www.songofstyle.com/2018/10/8-healthy-vegan-halloween-treats-for-you-to-try-right-now.html&amp;media=http://www.songofstyle.com/wp-content/uploads/2018/10/Aimee_song_of_style_halloween_healthy_snacks.jpg&amp;description=8 Healthy Vegan Halloween Treats for You to Try Right Now" target="_blank"><img src="http://www.songofstyle.com/wp-content/themes/ponsonby/image/pntrst.png"></a>
+		</footer><!-- end .entry-social -->
+
+	</div><!-- end .singlepost-wrap -->
+</article><!-- end .post-25164 -->
+
+
+
+				
+				
+				
+				
+<article id="post-25165" class="cf default post-25165 post type-post status-publish format-standard has-post-thumbnail hentry category-fashion category-friday-favorites category-songofstyle">
+
+	<div class="entry-thumbnail">
+		<a href="http://www.songofstyle.com/2018/10/friday-favorites-all-of-falls-biggest-trends.html">
+		<div style="display: none;">has25165</div><input class="jpibfi" type="hidden"><img width="975" height="1219" src="http://www.songofstyle.com/wp-content/uploads/2018/10/Aimee_song_of_style_fall_sweater-975x1219.jpg" class="attachment-ponsonby-big size-ponsonby-big wp-post-image" alt="" srcset="http://www.songofstyle.com/wp-content/uploads/2018/10/Aimee_song_of_style_fall_sweater-975x1219.jpg 975w, http://www.songofstyle.com/wp-content/uploads/2018/10/Aimee_song_of_style_fall_sweater-240x300.jpg 240w, http://www.songofstyle.com/wp-content/uploads/2018/10/Aimee_song_of_style_fall_sweater-768x960.jpg 768w, http://www.songofstyle.com/wp-content/uploads/2018/10/Aimee_song_of_style_fall_sweater-819x1024.jpg 819w, http://www.songofstyle.com/wp-content/uploads/2018/10/Aimee_song_of_style_fall_sweater-560x700.jpg 560w, http://www.songofstyle.com/wp-content/uploads/2018/10/Aimee_song_of_style_fall_sweater-300x375.jpg 300w, http://www.songofstyle.com/wp-content/uploads/2018/10/Aimee_song_of_style_fall_sweater.jpg 1080w" sizes="(max-width: 975px) 100vw, 975px" data-jpibfi-post-excerpt="" data-jpibfi-post-url="http://www.songofstyle.com/2018/10/friday-favorites-all-of-falls-biggest-trends.html" data-jpibfi-post-title="Friday Favorites: All of Fall&#8217;s Biggest Trends" data-jpibfi-src="http://www.songofstyle.com/wp-content/uploads/2018/10/Aimee_song_of_style_fall_sweater-975x1219.jpg" >		</a>
+	</div><!-- end .entry-thumbnail --><div class="singlepost-wrap">
+		<header class="entry-header">
+			<div class="entry-cats">
+				<a href="http://www.songofstyle.com/category/fashion">Fashion</a><a href="http://www.songofstyle.com/category/songofstyle">Song of Style</a><a href="http://www.songofstyle.com/category/songofstyle/friday-favorites">Friday Favorites</a>			</div><!-- end .entry-cats -->
+
+			<h1 class="entry-title"><a href="http://www.songofstyle.com/2018/10/friday-favorites-all-of-falls-biggest-trends.html">Friday Favorites: All of Fall&#8217;s Biggest Trends</a></h1>
+
+			<div class="entry-details">
+					<div class="entry-date">
+						October 26, 2018					</div><!-- end .entry-date -->
+															<div class="entry-comments">
+						<a href="http://www.songofstyle.com/2018/10/friday-favorites-all-of-falls-biggest-trends.html#comments">19 comments</a>					</div><!-- end .entry-comments -->
+											</div><!-- end .entry-details -->
+		</header><!-- end .entry-header -->
+
+		<div class="entry-excerpt">
+			<input class="jpibfi" type="hidden"><p>It&#8217;s been such a busy month traveling to some amazing places. Paris Fashion Week was such an incredible experience, and it was so fun to be able to &hellip;</p>
+
+							<div class="entry-shop">
+					<h2 class="title line">Featured items</h2>
+
+					<div class="shopthepost-widget" data-widget-id="3322065">
+                <script type="text/javascript" language="javascript">
+                    !function(d,s,id){
+                        var e, p = /^http:/.test(d.location) ? 'http' : 'https';
+                        if(!d.getElementById(id)) {
+                            e     = d.createElement(s);
+                            e.id  = id;
+                            e.src = p + '://widgets.rewardstyle.com/js/shopthepost.js';
+                            d.body.appendChild(e);
+                        }
+                        if(typeof window.__stp === 'object') if(d.readyState === 'complete') {
+                            window.__stp.init();
+                        }
+                    }(document, 'script', 'shopthepost-script');
+                </script>
+                <div class="rs-adblock">
+                    <img src="//assets.rewardstyle.com/images/search/350.gif" style="width:15px;height:15px;" onerror="this.parentNode.innerHTML='Turn off your ad blocker to view content'" />
+                    <noscript>Turn on your JavaScript to view content</noscript>
+                </div>
+            </div>				</div>
+			
+			<a class="btn" href="http://www.songofstyle.com/2018/10/friday-favorites-all-of-falls-biggest-trends.html">Read more</a>
+		</div><!-- end .entry-excerpt -->
+
+		<footer class="entry-social">
+			
+			<a class="share" href="https://www.facebook.com/sharer/sharer.php?u=http://www.songofstyle.com/2018/10/friday-favorites-all-of-falls-biggest-trends.html&amp;redirect_uri=http://www.songofstyle.com/2018/10/friday-favorites-all-of-falls-biggest-trends.html" target="_blank"><img src="http://www.songofstyle.com/wp-content/themes/ponsonby/image/fb.png"></a>
+			<a class="share" href="https://twitter.com/intent/tweet?text=Friday Favorites: All of Fall&#8217;s Biggest Trends&amp;url=http://www.songofstyle.com/2018/10/friday-favorites-all-of-falls-biggest-trends.html" class="social-sharing-buttons-button" target="_blank"><img src="http://www.songofstyle.com/wp-content/themes/ponsonby/image/twtr2.png"></a>
+			<a class="pin" href="https://www.pinterest.com/pin/create/button/?url=http://www.songofstyle.com/2018/10/friday-favorites-all-of-falls-biggest-trends.html&amp;media=http://www.songofstyle.com/wp-content/uploads/2018/10/Aimee_song_of_style_fall_sweater-819x1024.jpg&amp;description=Friday Favorites: All of Fall&#8217;s Biggest Trends" target="_blank"><img src="http://www.songofstyle.com/wp-content/themes/ponsonby/image/pntrst.png"></a>
+		</footer><!-- end .entry-social -->
+
+	</div><!-- end .singlepost-wrap -->
+</article><!-- end .post-25165 -->
+
+
+
+				
+				
+				
+				
+<article id="post-25149" class="cf default post-25149 post type-post status-publish format-standard has-post-thumbnail hentry category-fashion category-songofstyle category-trend-guides">
+
+	<div class="entry-thumbnail">
+		<a href="http://www.songofstyle.com/2018/10/these-midi-skirts-are-the-easiest-way-to-wear-falls-neon-trend.html">
+		<div style="display: none;">has25149</div><input class="jpibfi" type="hidden"><img width="800" height="921" src="http://www.songofstyle.com/wp-content/uploads/2018/10/Aimee_song_of_style_fall_midi_skirt_shopping_guide.jpg" class="attachment-ponsonby-big size-ponsonby-big wp-post-image" alt="" srcset="http://www.songofstyle.com/wp-content/uploads/2018/10/Aimee_song_of_style_fall_midi_skirt_shopping_guide.jpg 800w, http://www.songofstyle.com/wp-content/uploads/2018/10/Aimee_song_of_style_fall_midi_skirt_shopping_guide-261x300.jpg 261w, http://www.songofstyle.com/wp-content/uploads/2018/10/Aimee_song_of_style_fall_midi_skirt_shopping_guide-768x884.jpg 768w, http://www.songofstyle.com/wp-content/uploads/2018/10/Aimee_song_of_style_fall_midi_skirt_shopping_guide-608x700.jpg 608w, http://www.songofstyle.com/wp-content/uploads/2018/10/Aimee_song_of_style_fall_midi_skirt_shopping_guide-300x345.jpg 300w, http://www.songofstyle.com/wp-content/uploads/2018/10/Aimee_song_of_style_fall_midi_skirt_shopping_guide-560x645.jpg 560w" sizes="(max-width: 800px) 100vw, 800px" data-jpibfi-post-excerpt="" data-jpibfi-post-url="http://www.songofstyle.com/2018/10/these-midi-skirts-are-the-easiest-way-to-wear-falls-neon-trend.html" data-jpibfi-post-title="These Midi Skirts Are the Easiest Way to Wear Fall&#8217;s Neon Trend" data-jpibfi-src="http://www.songofstyle.com/wp-content/uploads/2018/10/Aimee_song_of_style_fall_midi_skirt_shopping_guide.jpg" >		</a>
+	</div><!-- end .entry-thumbnail --><div class="singlepost-wrap">
+		<header class="entry-header">
+			<div class="entry-cats">
+				<a href="http://www.songofstyle.com/category/fashion">Fashion</a><a href="http://www.songofstyle.com/category/fashion/trend-guides">Trend Guides</a><a href="http://www.songofstyle.com/category/songofstyle">Song of Style</a>			</div><!-- end .entry-cats -->
+
+			<h1 class="entry-title"><a href="http://www.songofstyle.com/2018/10/these-midi-skirts-are-the-easiest-way-to-wear-falls-neon-trend.html">These Midi Skirts Are the Easiest Way to Wear Fall&#8217;s Neon Trend</a></h1>
+
+			<div class="entry-details">
+					<div class="entry-date">
+						October 25, 2018					</div><!-- end .entry-date -->
+															<div class="entry-comments">
+						<a href="http://www.songofstyle.com/2018/10/these-midi-skirts-are-the-easiest-way-to-wear-falls-neon-trend.html#comments">15 comments</a>					</div><!-- end .entry-comments -->
+											</div><!-- end .entry-details -->
+		</header><!-- end .entry-header -->
+
+		<div class="entry-excerpt">
+			<input class="jpibfi" type="hidden"><p>Neons, jewel tones, and animal prints are all huge trends this season. I love these colors and prints in particular, because they are such a great way to make a &hellip;</p>
+
+							<div class="entry-shop">
+					<h2 class="title line">Featured items</h2>
+
+					<div class="shopthepost-widget" data-widget-id="3322650">
+                <script type="text/javascript" language="javascript">
+                    !function(d,s,id){
+                        var e, p = /^http:/.test(d.location) ? 'http' : 'https';
+                        if(!d.getElementById(id)) {
+                            e     = d.createElement(s);
+                            e.id  = id;
+                            e.src = p + '://widgets.rewardstyle.com/js/shopthepost.js';
+                            d.body.appendChild(e);
+                        }
+                        if(typeof window.__stp === 'object') if(d.readyState === 'complete') {
+                            window.__stp.init();
+                        }
+                    }(document, 'script', 'shopthepost-script');
+                </script>
+                <div class="rs-adblock">
+                    <img src="//assets.rewardstyle.com/images/search/350.gif" style="width:15px;height:15px;" onerror="this.parentNode.innerHTML='Turn off your ad blocker to view content'" />
+                    <noscript>Turn on your JavaScript to view content</noscript>
+                </div>
+            </div>				</div>
+			
+			<a class="btn" href="http://www.songofstyle.com/2018/10/these-midi-skirts-are-the-easiest-way-to-wear-falls-neon-trend.html">Read more</a>
+		</div><!-- end .entry-excerpt -->
+
+		<footer class="entry-social">
+			
+			<a class="share" href="https://www.facebook.com/sharer/sharer.php?u=http://www.songofstyle.com/2018/10/these-midi-skirts-are-the-easiest-way-to-wear-falls-neon-trend.html&amp;redirect_uri=http://www.songofstyle.com/2018/10/these-midi-skirts-are-the-easiest-way-to-wear-falls-neon-trend.html" target="_blank"><img src="http://www.songofstyle.com/wp-content/themes/ponsonby/image/fb.png"></a>
+			<a class="share" href="https://twitter.com/intent/tweet?text=These Midi Skirts Are the Easiest Way to Wear Fall&#8217;s Neon Trend&amp;url=http://www.songofstyle.com/2018/10/these-midi-skirts-are-the-easiest-way-to-wear-falls-neon-trend.html" class="social-sharing-buttons-button" target="_blank"><img src="http://www.songofstyle.com/wp-content/themes/ponsonby/image/twtr2.png"></a>
+			<a class="pin" href="https://www.pinterest.com/pin/create/button/?url=http://www.songofstyle.com/2018/10/these-midi-skirts-are-the-easiest-way-to-wear-falls-neon-trend.html&amp;media=http://www.songofstyle.com/wp-content/uploads/2018/10/Aimee_song_of_style_fall_midi_skirt_shopping_guide.jpg&amp;description=These Midi Skirts Are the Easiest Way to Wear Fall&#8217;s Neon Trend" target="_blank"><img src="http://www.songofstyle.com/wp-content/themes/ponsonby/image/pntrst.png"></a>
+		</footer><!-- end .entry-social -->
+
+	</div><!-- end .singlepost-wrap -->
+</article><!-- end .post-25149 -->
+
+
+
+				
+				
+				
+				
+<article id="post-25161" class="cf default post-25161 post type-post status-publish format-standard has-post-thumbnail hentry category-fashion category-songofstyle category-trend-guides">
+
+	<div class="entry-thumbnail">
+		<a href="http://www.songofstyle.com/2018/10/the-ultimate-guide-to-chic-fall-outerwear.html">
+		<div style="display: none;">has25161</div><input class="jpibfi" type="hidden"><img width="975" height="1217" src="http://www.songofstyle.com/wp-content/uploads/2018/10/42605825_195095304625076_5774169610957182785_n-975x1217.jpg" class="attachment-ponsonby-big size-ponsonby-big wp-post-image" alt="" srcset="http://www.songofstyle.com/wp-content/uploads/2018/10/42605825_195095304625076_5774169610957182785_n-975x1217.jpg 975w, http://www.songofstyle.com/wp-content/uploads/2018/10/42605825_195095304625076_5774169610957182785_n-240x300.jpg 240w, http://www.songofstyle.com/wp-content/uploads/2018/10/42605825_195095304625076_5774169610957182785_n-768x959.jpg 768w, http://www.songofstyle.com/wp-content/uploads/2018/10/42605825_195095304625076_5774169610957182785_n-820x1024.jpg 820w, http://www.songofstyle.com/wp-content/uploads/2018/10/42605825_195095304625076_5774169610957182785_n-561x700.jpg 561w, http://www.songofstyle.com/wp-content/uploads/2018/10/42605825_195095304625076_5774169610957182785_n-300x374.jpg 300w, http://www.songofstyle.com/wp-content/uploads/2018/10/42605825_195095304625076_5774169610957182785_n-560x699.jpg 560w, http://www.songofstyle.com/wp-content/uploads/2018/10/42605825_195095304625076_5774169610957182785_n.jpg 1080w" sizes="(max-width: 975px) 100vw, 975px" data-jpibfi-post-excerpt="" data-jpibfi-post-url="http://www.songofstyle.com/2018/10/the-ultimate-guide-to-chic-fall-outerwear.html" data-jpibfi-post-title="Fall Outerwear Items That I&#8217;ve been wearing for years" data-jpibfi-src="http://www.songofstyle.com/wp-content/uploads/2018/10/42605825_195095304625076_5774169610957182785_n-975x1217.jpg" >		</a>
+	</div><!-- end .entry-thumbnail --><div class="singlepost-wrap">
+		<header class="entry-header">
+			<div class="entry-cats">
+				<a href="http://www.songofstyle.com/category/fashion">Fashion</a><a href="http://www.songofstyle.com/category/fashion/trend-guides">Trend Guides</a><a href="http://www.songofstyle.com/category/songofstyle">Song of Style</a>			</div><!-- end .entry-cats -->
+
+			<h1 class="entry-title"><a href="http://www.songofstyle.com/2018/10/the-ultimate-guide-to-chic-fall-outerwear.html">Fall Outerwear Items That I&#8217;ve been wearing for years</a></h1>
+
+			<div class="entry-details">
+					<div class="entry-date">
+						October 25, 2018					</div><!-- end .entry-date -->
+															<div class="entry-comments">
+						<a href="http://www.songofstyle.com/2018/10/the-ultimate-guide-to-chic-fall-outerwear.html#comments">18 comments</a>					</div><!-- end .entry-comments -->
+											</div><!-- end .entry-details -->
+		</header><!-- end .entry-header -->
+
+		<div class="entry-excerpt">
+			<input class="jpibfi" type="hidden"><p>I love fall because it means we finally get to start wearing sweaters and coats. Sometimes, it can be challenging to feel fashion forward while still keeping warm &hellip;</p>
+
+							<div class="entry-shop">
+					<h2 class="title line">Featured items</h2>
+
+					<div class="shopthepost-widget" data-widget-id="3322098">
+                <script type="text/javascript" language="javascript">
+                    !function(d,s,id){
+                        var e, p = /^http:/.test(d.location) ? 'http' : 'https';
+                        if(!d.getElementById(id)) {
+                            e     = d.createElement(s);
+                            e.id  = id;
+                            e.src = p + '://widgets.rewardstyle.com/js/shopthepost.js';
+                            d.body.appendChild(e);
+                        }
+                        if(typeof window.__stp === 'object') if(d.readyState === 'complete') {
+                            window.__stp.init();
+                        }
+                    }(document, 'script', 'shopthepost-script');
+                </script>
+                <div class="rs-adblock">
+                    <img src="//assets.rewardstyle.com/images/search/350.gif" style="width:15px;height:15px;" onerror="this.parentNode.innerHTML='Turn off your ad blocker to view content'" />
+                    <noscript>Turn on your JavaScript to view content</noscript>
+                </div>
+            </div>				</div>
+			
+			<a class="btn" href="http://www.songofstyle.com/2018/10/the-ultimate-guide-to-chic-fall-outerwear.html">Read more</a>
+		</div><!-- end .entry-excerpt -->
+
+		<footer class="entry-social">
+			
+			<a class="share" href="https://www.facebook.com/sharer/sharer.php?u=http://www.songofstyle.com/2018/10/the-ultimate-guide-to-chic-fall-outerwear.html&amp;redirect_uri=http://www.songofstyle.com/2018/10/the-ultimate-guide-to-chic-fall-outerwear.html" target="_blank"><img src="http://www.songofstyle.com/wp-content/themes/ponsonby/image/fb.png"></a>
+			<a class="share" href="https://twitter.com/intent/tweet?text=Fall Outerwear Items That I&#8217;ve been wearing for years&amp;url=http://www.songofstyle.com/2018/10/the-ultimate-guide-to-chic-fall-outerwear.html" class="social-sharing-buttons-button" target="_blank"><img src="http://www.songofstyle.com/wp-content/themes/ponsonby/image/twtr2.png"></a>
+			<a class="pin" href="https://www.pinterest.com/pin/create/button/?url=http://www.songofstyle.com/2018/10/the-ultimate-guide-to-chic-fall-outerwear.html&amp;media=http://www.songofstyle.com/wp-content/uploads/2018/10/42605825_195095304625076_5774169610957182785_n-820x1024.jpg&amp;description=Fall Outerwear Items That I&#8217;ve been wearing for years" target="_blank"><img src="http://www.songofstyle.com/wp-content/themes/ponsonby/image/pntrst.png"></a>
+		</footer><!-- end .entry-social -->
+
+	</div><!-- end .singlepost-wrap -->
+</article><!-- end .post-25161 -->
+
+
+
+				
+				
+				
+				
+<article id="post-25142" class="cf default post-25142 post type-post status-publish format-standard has-post-thumbnail hentry category-fashion category-songofstyle category-trend-guides">
+
+	<div class="entry-thumbnail">
+		<a href="http://www.songofstyle.com/2018/10/the-one-no-fail-wardrobe-item-you-need-right-now.html">
+		<div style="display: none;">has25142</div><input class="jpibfi" type="hidden"><img width="975" height="1219" src="http://www.songofstyle.com/wp-content/uploads/2018/10/Aimee_song_of_style_fall_wrap_dress_guide-975x1219.jpg" class="attachment-ponsonby-big size-ponsonby-big wp-post-image" alt="" srcset="http://www.songofstyle.com/wp-content/uploads/2018/10/Aimee_song_of_style_fall_wrap_dress_guide-975x1219.jpg 975w, http://www.songofstyle.com/wp-content/uploads/2018/10/Aimee_song_of_style_fall_wrap_dress_guide-240x300.jpg 240w, http://www.songofstyle.com/wp-content/uploads/2018/10/Aimee_song_of_style_fall_wrap_dress_guide-768x960.jpg 768w, http://www.songofstyle.com/wp-content/uploads/2018/10/Aimee_song_of_style_fall_wrap_dress_guide-819x1024.jpg 819w, http://www.songofstyle.com/wp-content/uploads/2018/10/Aimee_song_of_style_fall_wrap_dress_guide-560x700.jpg 560w, http://www.songofstyle.com/wp-content/uploads/2018/10/Aimee_song_of_style_fall_wrap_dress_guide-300x375.jpg 300w, http://www.songofstyle.com/wp-content/uploads/2018/10/Aimee_song_of_style_fall_wrap_dress_guide.jpg 1080w" sizes="(max-width: 975px) 100vw, 975px" data-jpibfi-post-excerpt="" data-jpibfi-post-url="http://www.songofstyle.com/2018/10/the-one-no-fail-wardrobe-item-you-need-right-now.html" data-jpibfi-post-title="The One No-Fail Wardrobe Item You Need Right Now" data-jpibfi-src="http://www.songofstyle.com/wp-content/uploads/2018/10/Aimee_song_of_style_fall_wrap_dress_guide-975x1219.jpg" >		</a>
+	</div><!-- end .entry-thumbnail --><div class="singlepost-wrap">
+		<header class="entry-header">
+			<div class="entry-cats">
+				<a href="http://www.songofstyle.com/category/fashion">Fashion</a><a href="http://www.songofstyle.com/category/fashion/trend-guides">Trend Guides</a><a href="http://www.songofstyle.com/category/songofstyle">Song of Style</a>			</div><!-- end .entry-cats -->
+
+			<h1 class="entry-title"><a href="http://www.songofstyle.com/2018/10/the-one-no-fail-wardrobe-item-you-need-right-now.html">The One No-Fail Wardrobe Item You Need Right Now</a></h1>
+
+			<div class="entry-details">
+					<div class="entry-date">
+						October 24, 2018					</div><!-- end .entry-date -->
+															<div class="entry-comments">
+						<a href="http://www.songofstyle.com/2018/10/the-one-no-fail-wardrobe-item-you-need-right-now.html#comments">19 comments</a>					</div><!-- end .entry-comments -->
+											</div><!-- end .entry-details -->
+		</header><!-- end .entry-header -->
+
+		<div class="entry-excerpt">
+			<input class="jpibfi" type="hidden"><p>There&#8217;s one type of dress that never fails to make you feel pulled together and ready to go: the wrap dress. Wrap dresses have been around forever, and &hellip;</p>
+
+							<div class="entry-shop">
+					<h2 class="title line">Featured items</h2>
+
+					<div class="shopthepost-widget" data-widget-id="3321302">
+                <script type="text/javascript" language="javascript">
+                    !function(d,s,id){
+                        var e, p = /^http:/.test(d.location) ? 'http' : 'https';
+                        if(!d.getElementById(id)) {
+                            e     = d.createElement(s);
+                            e.id  = id;
+                            e.src = p + '://widgets.rewardstyle.com/js/shopthepost.js';
+                            d.body.appendChild(e);
+                        }
+                        if(typeof window.__stp === 'object') if(d.readyState === 'complete') {
+                            window.__stp.init();
+                        }
+                    }(document, 'script', 'shopthepost-script');
+                </script>
+                <div class="rs-adblock">
+                    <img src="//assets.rewardstyle.com/images/search/350.gif" style="width:15px;height:15px;" onerror="this.parentNode.innerHTML='Turn off your ad blocker to view content'" />
+                    <noscript>Turn on your JavaScript to view content</noscript>
+                </div>
+            </div>				</div>
+			
+			<a class="btn" href="http://www.songofstyle.com/2018/10/the-one-no-fail-wardrobe-item-you-need-right-now.html">Read more</a>
+		</div><!-- end .entry-excerpt -->
+
+		<footer class="entry-social">
+			
+			<a class="share" href="https://www.facebook.com/sharer/sharer.php?u=http://www.songofstyle.com/2018/10/the-one-no-fail-wardrobe-item-you-need-right-now.html&amp;redirect_uri=http://www.songofstyle.com/2018/10/the-one-no-fail-wardrobe-item-you-need-right-now.html" target="_blank"><img src="http://www.songofstyle.com/wp-content/themes/ponsonby/image/fb.png"></a>
+			<a class="share" href="https://twitter.com/intent/tweet?text=The One No-Fail Wardrobe Item You Need Right Now&amp;url=http://www.songofstyle.com/2018/10/the-one-no-fail-wardrobe-item-you-need-right-now.html" class="social-sharing-buttons-button" target="_blank"><img src="http://www.songofstyle.com/wp-content/themes/ponsonby/image/twtr2.png"></a>
+			<a class="pin" href="https://www.pinterest.com/pin/create/button/?url=http://www.songofstyle.com/2018/10/the-one-no-fail-wardrobe-item-you-need-right-now.html&amp;media=http://www.songofstyle.com/wp-content/uploads/2018/10/Aimee_song_of_style_fall_wrap_dress_guide-819x1024.jpg&amp;description=The One No-Fail Wardrobe Item You Need Right Now" target="_blank"><img src="http://www.songofstyle.com/wp-content/themes/ponsonby/image/pntrst.png"></a>
+		</footer><!-- end .entry-social -->
+
+	</div><!-- end .singlepost-wrap -->
+</article><!-- end .post-25142 -->
+
+
+
+				
+				
+				
+				
+<div class='wp-pagenavi' role='navigation'>
+<span class='pages'>Page 2 of 380</span><a class="previouspostslink" rel="prev" href="http://www.songofstyle.com/">«</a><a class="page smaller" title="Page 1" href="http://www.songofstyle.com/">1</a><span aria-current='page' class='current'>2</span><a class="page larger" title="Page 3" href="http://www.songofstyle.com/page/3">3</a><a class="page larger" title="Page 4" href="http://www.songofstyle.com/page/4">4</a><span class='extend'>...</span><a class="larger page" title="Page 15" href="http://www.songofstyle.com/page/15">15</a><a class="larger page" title="Page 30" href="http://www.songofstyle.com/page/30">30</a><span class='extend'>...</span><a class="nextpostslink" rel="next" href="http://www.songofstyle.com/page/3">»</a><a class="last" href="http://www.songofstyle.com/page/380">Last »</a>
+</div>
+	</div><!-- end #primary -->
+
+</div>
+
+
+
+
+<footer id="colophon" class="site-footer cf" role="contentinfo">
+
+	
+
+<div id="footer-widgetarea" class="cf">
+			<div id="footer-column-one" class="footer-column widget-area" role="complementary">
+			<aside id="text-2" class="widget widget_text">			<div class="textwidget"><!-- <div id="insta-main">
+	<div id="insta-one">
+		<p>GET PERSONAL AND FOLLOW ME ON</p>
+	</div>
+	<div id="insta-two">
+		<p>INSTAGRAM</p>
+	</div>
+</div>
+<div>
+
+</div>
+
+--></div>
+		</aside>		</div><!-- end #footer-column-one -->
+	
+	
+	</div><!-- end #footer-widgetarea -->
+	<div id="site-info">
+
+		<div id="footer-main-menu">
+
+		<div id="footer-menu">
+			<ul id="menu-footer-menu" class="nav-menu"><li id="menu-item-10807" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10807"><a href="http://www.songofstyle.com/contact">Professional Inquiries &#038; Advertising</a></li>
+</ul>		</div>
+
+		<div id="footer-right-div">
+			<div id="social-icons-footer">
+				<ul id="menu-disclaimer-menu" class="footer-dv-left"><li id="menu-item-15121" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15121"><a href="http://www.songofstyle.com/about">About</a></li>
+<li id="menu-item-15122" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15122"><a href="http://www.songofstyle.com/disclaimer">Disclaimer</a></li>
+</ul>				<ul class="footer-dv-nav">
+					<li><a href="http://www.facebook.com/SongOfStyle"><img src="http://www.songofstyle.com/wp-content/themes/ponsonby/image/facebook.png" /></a></li>
+					<li><a href="http://twitter.com/aimeesong"><img src="http://www.songofstyle.com/wp-content/themes/ponsonby/image/twitter.png" /></a></li>
+					<li><a href="http://instagram.com/songofstyle"><img src="http://www.songofstyle.com/wp-content/themes/ponsonby/image/instagram.png" /></a></li>
+					<!--<li><a href=""><img src="http://www.songofstyle.com/wp-content/themes/ponsonby/image/tumblr.png" /></a></li>-->
+					<li><a href="http://pinterest.com/songofstyle/"><img src="http://www.songofstyle.com/wp-content/themes/ponsonby/image/pintrest.png" /></a></li>
+					<li><a href="http://bloglovin.com/blog/493482/song-of-style"><img src="http://www.songofstyle.com/wp-content/themes/ponsonby/image/blog_white.png" /></a></li>
+				</ul>
+			</div>
+		</div>
+
+
+
+		<!--<ul class="credit" role="contentinfo">
+						<li class="copyright"> &copy; 2018 <a href="http://www.songofstyle.com/">Song of Style.</a></li>
+			<li class="wp-credit">
+				Proudly powered by <a href="http://wordpress.org/" >WordPress.</a>
+			</li>
+			<li>
+				Theme: Ponsonby by <a href="http://www.elmastudio.de/en/" rel="designer">Elmastudio</a>.			</li>
+					</ul>--><!-- end .credit -->
+		</div>
+	</div><!-- end #site-info -->
+
+</footer><!-- end #colophon -->
+
+</div><!-- end #container -->
+
+
+<style type="text/css">
+.ig_hide .wpcf7-response-output,
+.ig_form_container .screen-reader-response{
+	display: none !important;
+}
+.ig_show .ig_form_container.layout_bottom .wpcf7-response-output,
+.ig_show .ig_form_container.layout_right .wpcf7-response-output,
+.ig_show .ig_form_container.layout_left .wpcf7-response-output{
+	background-color: #FFF;
+	color: #444;
+	position: absolute;
+}
+.ig_sidebar .ig_form_bottom.ig_show .ig_form_container.layout_bottom .wpcf7-response-output{
+	bottom: 0;
+}
+.ig_overlay.ig_form_bottom.ig_show .ig_form_container.layout_bottom .wpcf7-response-output,
+.ig_action_bar.ig_bottom.ig_show .ig_form_container.layout_right .wpcf7-response-output,
+.ig_action_bar.ig_bottom.ig_show .ig_form_container.layout_left .wpcf7-response-output{
+	bottom: 100%;
+}
+</style>
+
+<script type="text/javascript">
+jQuery(function() {
+  	jQuery( window ).on( "init.icegram", function(e, ig) {
+	  	// Find and init all CF7 forms within Icegram messages/divs and init them
+  		if(typeof ig !== 'undefined' && typeof ig.messages !== 'undefined' ){
+		  	jQuery.each(ig.messages, function(i, msg){
+		  		jQuery(msg.el).find('form input[name=_wpcf7]').each(function(){
+			  		var form = jQuery(this).closest('form');
+			  		if(form && !form.hasClass('ig_form_init_done')){
+			  			if(form.closest('.ig_form_container').length > 0){
+				  			if(form.parent().find('.screen-reader-response').length == 0){
+				  				form.before('<div class="screen-reader-response"></div>')
+				  			}
+				  			if(form.find('wpcf7-response-output').length == 0){
+				  				form.append('<div class="wpcf7-response-output wpcf7-display-none"></div>')
+				  			}
+					  		form.closest('.ig_form_container').attr('id', form.find('input[name=_wpcf7_unit_tag]').val()); //_wpcf7_unit_tag
+			  			}
+			  			if(typeof _wpcf7 !== 'undefined'){
+							form.wpcf7InitForm();
+			  			}else{
+				  	        form.submit( function( event ) {
+								if ( typeof window.FormData !== 'function' ) {
+									return;
+								}
+								wpcf7.submit( form );
+								event.preventDefault();
+							} );
+			  			}
+			  			form.addClass('ig_form_init_done');
+			  		}
+		  		});
+
+		  	});
+	  	}
+
+  	}); // init.icegram
+	
+	// Dismiss response text/div when shown within icegram form container
+	jQuery('body').on('click', '.ig_form_container .wpcf7-response-output', function(e) {
+			jQuery(e.target).slideUp();
+	});
+	// Handle CTA function(s) after successful submission of form
+  	jQuery( window ).on('wpcf7:mailsent', function(e) {
+  		if( typeof icegram !== 'undefined' ){
+		  	var msg_id = ((jQuery(e.target).closest('[id^=icegram_message_]') || {}).attr('id') || '').split('_').pop() || 0 ;
+		  	var ig_msg = icegram.get_message_by_id(msg_id) || undefined;
+		  	if(ig_msg && ig_msg.data.cta === 'form_via_ajax' && ig_msg.data.cta_option_form_via_ajax == 'hide_on_success'){
+			  	setTimeout(function(){
+					ig_msg.hide();
+				}, 2000);
+			}
+  		}
+	});
+});
+</script>
+
+			<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"http:\/\/www.songofstyle.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.songofstyle.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.0.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var jpibfi_options = {"hover":{"siteTitle":"Song of Style","image_selector":"#main-container .entry-content img, .entry-thumbnail img","disabled_classes":"nopin;wp-smiley","enabled_classes":"","min_image_height":0,"min_image_height_small":0,"min_image_width":0,"min_image_width_small":0,"show_on":"[front],[single],[page],[category],[archive],[search],[home]","disable_on":"","show_button":"hover","button_margin_bottom":20,"button_margin_top":15,"button_margin_left":20,"button_margin_right":15,"button_position":"top-right","description_option":["img_title","img_alt","post_title"],"transparency_value":0,"pin_image":"custom","pin_image_button":"square","pin_image_icon":"circle","pin_image_size":"normal","custom_image_url":"http:\/\/www.songofstyle.com\/wp-content\/uploads\/2015\/08\/pin_pink.png","scale_pin_image":false,"pinLinkedImages":true,"pinImageWidth":32,"pinImageHeight":32,"scroll_selector":"","support_srcset":false}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.songofstyle.com/wp-content/plugins/jquery-pin-it-button-for-images/js/jpibfi.client.js?ver=3.0.0'></script>
+<script type='text/javascript' src='http://www.songofstyle.com/wp-content/themes/ponsonby/js/ponsonby.js?ver=20141201'></script>
+<script type='text/javascript' src='http://www.songofstyle.com/wp-includes/js/wp-embed.min.js?ver=4.9.8'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var icegram_pre_data = {"ajax_url":"http:\/\/www.songofstyle.com\/wp-admin\/admin-ajax.php","post_obj":{"is_home":true,"page_id":25142,"action":"display_messages","shortcodes":[],"cache_compatibility":"no","device":"laptop"}};
+var icegram_data = {"messages":[{"post_title":"","type":"popup","theme":"air-mail","animation":"appear","headline":"","icon":"","message":"<div class=\"signup-form subscribe-box  subscribe-popup\">\n<form method=\"post\" action=\"\/\/songofstyle.us13.list-manage.com\/subscribe\/post-json?u=a4426dce974b9917dc8e829dc&amp;id=d3926d369d&amp;c=?\" id=\"mc_signup_form\" class=\"validate\">\n        <input type=\"hidden\" id=\"mc_submit_type\" name=\"mc_submit_type\" value=\"js\"><br \/>\n        <input type=\"hidden\" name=\"mcsf_action\" value=\"mc_submit_signup_form\"><br \/>\n        <input type=\"hidden\" id=\"_mc_submit_signup_form_nonce\" name=\"_mc_submit_signup_form_nonce\" value=\"d3926d369d\"><\/p>\n<p>        <input type=\"hidden\" name=\"SOS_SOURCE\" value=\"POPUP\"> <!-- Where the form is located --><\/p>\n<div class=\"mc_form_inside\">\n<div class=\"updated\" id=\"mc_message\"> <\/div>\n<p><!-- \/mc_message --><\/p>\n<header class=\"subscribe-header\">\n<h2 class=\"subscribe-title\">LET&#8217;S<br class=\"force-break\" \/>STAY<br class=\"force-break\" \/>IN<br class=\"force-break\" \/>TOUCH!<\/h2>\n<h3 class=\"subscribe-description\">Sign up here to be the first to know about everything Song of Style<\/h3>\n<\/header>\n<div class=\"subscribe-image\">\n                    <img src=\"http:\/\/www.songofstyle.com\/wp-content\/uploads\/2017\/02\/pop-image.jpg\" alt=\"\">\n                <\/div>\n<div class=\"cf\">&nbsp;<\/div>\n<div class=\"signup-inputs cf\">\n<div class=\"input-holder mc_merge_var\">\n                        <label for=\"mc_mv_FNAME\" class=\"mc_var_label mc_header mc_header_text sr-only\">First Name<\/label><br \/>\n                        <input type=\"text\" size=\"18\" placeholder=\"first name\" name=\"FNAME\" id=\"mc_mv_FNAME\" class=\"mc_input\">\n                    <\/div>\n<p><!-- \/mc_merge_var --><\/p>\n<div class=\"input-holder mc_merge_var\">\n                        <label for=\"mc_mv_EMAIL\" class=\"mc_var_label mc_header mc_header_email sr-only\">Email Address<span class=\"mc_required\">*<\/span><\/label><br \/>\n                        <input type=\"email\" size=\"18\" placeholder=\"email address\" name=\"EMAIL\" id=\"mc_mv_EMAIL\" class=\"mc_input\">\n                    <\/div>\n<p><!-- \/mc_merge_var --><\/p>\n<div class=\"input-holder mc_merge_var\">\n                        <input type=\"submit\" name=\"mc_signup_submit\" id=\"mc_signup_submit\" value=\"SIGN ME UP\" class=\"submit-btn\">\n                    <\/div>\n<p><!-- \/mc_merge_var -->\n                <\/div>\n<div class=\"mc_signup_submit\">\n<div style=\"position: absolute; left: -5000px;\" aria-hidden=\"true\"><input type=\"text\" name=\"b_b442c2243470c69b9cd83d530_7728fc8b13\" tabindex=\"-1\" value=\"\"><\/div>\n<\/p><\/div>\n<p><!-- \/mc_signup_submit --><\/p>\n<div class=\"response-box\">\n<div id=\"mce-thankyou\">\n<div class=\"response\"><\/div>\n<\/p><\/div>\n<div id=\"mce-responses\">\n<div class=\"response\"><\/div>\n<\/p><\/div>\n<\/p><\/div>\n<\/p><\/div>\n<p><!-- \/mc_form_inside --><br \/>\n    <\/form>\n<p><!-- \/mc_signup_form -->\n<\/div>\n","form_style":"style_0","form_layout":"left","form_bg_color":"","form_text_color":"","form_header":"","form_html_original":"","form_footer":"","label":"","link":"","use_theme_defaults":"yes","bg_color":"","text_color":"","cta_bg_color":"","cta_text_color":"","position":"21","custom_css":"#ig_this_message .ig_headline{ \/* font-size: 3em !important; *\/ }","custom_js":"<script type=\"text\/javascript\"> \/* add your js code here *\/ <\/script>","id":"16907","delay_time":"1","retargeting":"yes","campaign_id":16906,"expiry_time":"+1 month","retargeting_clicked":"yes","expiry_time_clicked":"+1 month"}],"ajax_url":"http:\/\/www.songofstyle.com\/wp-admin\/admin-ajax.php","defaults":{"icon":"http:\/\/www.songofstyle.com\/wp-content\/plugins\/icegram\/assets\/images\/icegram-logo-branding-64-grey.png","powered_by_logo":"","powered_by_text":""},"scripts":["http:\/\/www.songofstyle.com\/wp-content\/plugins\/icegram\/assets\/js\/icegram.min.js?var=1.10.22"],"css":["http:\/\/www.songofstyle.com\/wp-content\/plugins\/icegram\/assets\/css\/frontend.min.css?var=1.10.22","http:\/\/www.songofstyle.com\/wp-content\/plugins\/icegram\/message-types\/popup\/themes\/popup.min.css?var=1.10.22"]};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.songofstyle.com/wp-content/plugins/icegram/assets/js/main.min.js?ver=1.10.22'></script>
+
+<!--Plugin WP Missed Schedule Active - Secured with Genuine Authenticity KeyTag-->
+
+<!-- This site is patched against a big problem not solved since WordPress 2.5 -->
+
+  <a href="https://chloedigital.com/powered-by-chloedigital/?cdbabe=songofstyle.com&utm_source=poweredby&utm_medium=foote&utm_campaign=songofstyle.com" class="cd-poweredby-link sr-only">
+    powered by chloédigital  </a>
+  <script>
+    (function($){
+      var cd_link = $('<a />', {
+        'target': '_blank',
+        'href': 'https://chloedigital.com/powered-by-chloedigital/?cdbabe=Song+of+Style&utm_source=poweredby&utm_medium=footer&utm_campaign=songofstyle.com',
+        'class': 'cd-poweredby-link'
+      });
+      cd_link.append('powered by chloédigital');
+      cd_link.appendTo('#menu-footer-menu li:first-child');
+    }(jQuery));
+  </script>
+  <style>
+    .sr-only {
+      position: absolute;
+      width: 1px;
+      height: 1px;
+      padding: 0;
+      margin: -1px;
+      overflow: hidden;
+      clip: rect(0,0,0,0);
+      border: 0;
+    }
+    #menu-footer-menu li a[href*='chloedigital.com'] {
+padding-left:10px;
+}  </style>
+
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+var _qevents = _qevents || [];
+
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+
+_qevents.push({
+qacct:"p-24SdTyNDlCLRU"
+});
+</script>
+
+<noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-24SdTyNDlCLRU.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript>
+<!-- End Quantcast tag -->
+
+
+
+<!-- Google Analytics Tag -->
+
+	<script type="text/javascript">
+	    (function($){
+
+	        $(document).ready(function(){
+	            $(document).on('submit', '.signup-form form', function ( event ) {
+	                event.preventDefault();
+	                register( $(this) );
+	            });
+	        });
+	        function register($form) {
+	            $form.find('.submit-btn').blur();
+
+	            $.ajax({
+	                type        : $form.attr('method'),
+	                url         : $form.attr('action'),
+	                data        : $form.serialize(),
+	                cache       : false,
+	                dataType    : 'jsonp',
+	                contentType : "application/json; charset=utf-8",
+	                error       : function(err) {
+	                    console.log(err.responseText)
+	                },
+	                success     : function(data) {
+	                    var $response;
+
+	                    window.ga = typeof(ga) != "undefined" ? ga : __gaTracker;
+
+	                    ga('send', 'event', { eventCategory: 'Newsletter', eventAction: 'submit', eventLabel: 'signup', eventValue: 'Lead'});
+
+	                    if(typeof fbq !== 'undefined') fbq('track', 'Lead');
+
+	                    if (data.result != "success") {
+	                        $response = $form.find('#mce-responses .response');
+	                        // Something went wrong, do something to notify the user. maybe alert(data.msg);
+	                        $response.html(data.msg.replace("0 - ", ""));
+
+	                        setTimeout(function() {
+	                            $response.parent().fadeOut();
+	                        }, 5000);
+	                    }
+	                    else {
+	                        $response = $form.find('#mce-thankyou .response');
+	                        // It worked, carry on...
+	                        $response.html(data.msg);
+	                        ga('send', 'event', { eventCategory: 'Newsletter', eventAction: 'submit', eventLabel: 'signup', eventValue: 'CompleteRegistration'});
+	                        if(typeof fbq !== 'undefined') fbq('track', 'CompleteRegistration');
+	                    }
+	                    $response.parent().fadeIn(400);
+	                }
+	            });
+	        }
+	    })(jQuery);
+	</script>
+
+<script>(function(w, d, s, id) {
+w.PUBX=w.PUBX ||
+{pub: "song_of_style", discover: false, lazy: true}
+;
+var js, pjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id; js.async = true;
+js.src = "//main.pubexchange.com/loader.min.js";
+pjs.parentNode.insertBefore(js, pjs);
+}(window, document, "script", "pubexchange-jssdk"));</script>
+
+</body>
+</html>
+

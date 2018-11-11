@@ -1,0 +1,5 @@
+{'http://www.songofstyle.com/2018/10/the-ultimate-guide-to-chic-fall-outerwear.html', 
+'http://www.songofstyle.com/2018/10/these-midi-skirts-are-the-easiest-way-to-wear-falls-neon-trend.html', 
+'http://www.songofstyle.com/2018/10/friday-favorites-all-of-falls-biggest-trends.html', 
+'http://www.songofstyle.com/2018/10/the-one-no-fail-wardrobe-item-you-need-right-now.html', 'http://www.songofstyle.com/2018/10/8-healthy-vegan-halloween-treats-for-you-to-try-right-now.html', 
+'http://www.songofstyle.com/2018/10/heart-shaped-earrings-are-officially-the-next-big-thing.html'}
