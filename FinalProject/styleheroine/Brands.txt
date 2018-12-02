@@ -1,0 +1,10 @@
+StyleHeroine High Frequency Nouns
+High frequency noun: Couture; Count: 11
+High frequency noun: Pierpaolo; Count: 15
+High frequency noun: Evangelie; Count: 13
+High frequency noun: Valentino; Count: 56
+High frequency noun: Beautiful; Count: 14
+High frequency noun: Isabel; Count: 15
+High frequency noun: Chanel; Count: 22
+High frequency noun: Celine; Count: 13
+High frequency noun: Paris; Count: 26

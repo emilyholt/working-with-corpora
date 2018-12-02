@@ -32,12 +32,43 @@ def frequency_distribution(tokens):
 	return fdist.most_common(100)
 
 def extract_pronouns(words):
-	tagged_content = pos_tag(words.split())
+	tagged_content = pos_tag(words)
 	propernouns = [word for word,pos in tagged_content if pos == 'NNP'] 
-	print(propernouns)
 	return propernouns
 
-def main(args):
+def pronoun_frequency(pronouns, string):
+	pronoun_frequency_dict = {}
+	for noun in set(pronouns):
+		noun_count = string.count(str(noun + " "))
+		pronoun_frequency_dict[noun] = noun_count
+		if noun_count >= 10:
+			print("High frequency noun: %s; Count: %d" % (noun, noun_count))
+	return pronoun_frequency_dict
+
+def product_frequency(words, string):
+	string = string.lower()
+	products = ["jeans", "denim", "pants", "dress", "skirt", "shirt", "top", "bottoms", "bag", "scarf", "sunglasses", "shoes", "sneakers", "flats", "heels", "boots", "coat", "jacket", "sweater", "accessories"]
+	product_frequency_dict = {key: 0 for key in products}
+	for word in words:
+		if word in products:
+			product_count = string.count(word.lower())
+			product_frequency_dict[word] = product_count
+
+	for key in product_frequency_dict:
+		print("%s count: %d" % (key, product_frequency_dict[key]))
+	return product_frequency_dict
+	
+	'''
+	# Turn on if plotting graph
+	product_counts = []
+	for product in products:
+		product_counts.append(product_frequency_dict[product])
+
+	print("Product frequencies: ")
+	print(product_counts)
+	'''
+
+def analyze_content(args):
 	filename = args[1]
 	text = []
 	with open(filename) as f:
@@ -50,19 +81,25 @@ def main(args):
 
 	string = ""
 	with open(filename, 'r') as f:
-		string=f.read().replace('\n', '').lower()
+		string=f.read().replace('\n', '')
 
 	print("Corpus size: %d" % len(words))
 	print("Vocab size: %d" % vocab_size(words))
 	print("Lexical diversity: %0.4f" % lexical_diversity(words))
 	print("Number of sponsor occurrences: %d" % sponsor_occurrences(words))
 	print("Number of ad occurrences: %d" % ad_occurrences(words))
+	
 	tokens = nltk.tokenize.word_tokenize(string.lower())
-	# tokenizer = RegexpTokenizer(r'\w+')
-	# tokens = tokenizer.tokenize(words)
 	print("Frequency Distribution: %s" % frequency_distribution(tokens))
-	# propernouns = extract_pronouns(words)
+	pronouns = extract_pronouns(words)
+	print("Song of Style High Frequency Pronouns")
+	pronoun_frequency_dict = pronoun_frequency(pronouns, string)
+	print_most_frequent_pronouns(pronoun_frequency_dict)
+	print("Pronoun frequency: %s" % pronoun_frequency(pronouns, string))
+	products = ["jeans", "denim", "pants", "dress", "skirt", "shirt", "top", "bottoms", "bag", "scarf", "sunglasses", "shoes", "sneakers", "flats", "heels", "boots", "coat", "jacket", "sweater", "accessories"]
+
+	product_frequency_dict = product_frequency(words, string)
 
 if __name__ == "__main__":
-	main(sys.argv)
+	analyze_content(sys.argv)
 
