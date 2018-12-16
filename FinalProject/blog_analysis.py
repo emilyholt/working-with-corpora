@@ -58,15 +58,14 @@ def product_frequency(words, string):
 		print("%s count: %d" % (key, product_frequency_dict[key]))
 	return product_frequency_dict
 	
-	'''
-	# Turn on if plotting graph
+
 	product_counts = []
 	for product in products:
 		product_counts.append(product_frequency_dict[product])
 
 	print("Product frequencies: ")
 	print(product_counts)
-	'''
+
 
 def analyze_content(args):
 	filename = args[1]
@@ -96,7 +95,6 @@ def analyze_content(args):
 	pronoun_frequency_dict = pronoun_frequency(pronouns, string)
 	print_most_frequent_pronouns(pronoun_frequency_dict)
 	print("Pronoun frequency: %s" % pronoun_frequency(pronouns, string))
-	products = ["jeans", "denim", "pants", "dress", "skirt", "shirt", "top", "bottoms", "bag", "scarf", "sunglasses", "shoes", "sneakers", "flats", "heels", "boots", "coat", "jacket", "sweater", "accessories"]
 
 	product_frequency_dict = product_frequency(words, string)
 
